@@ -32,7 +32,7 @@ I'm a passionate **Full Stack Developer** from Pakistan who loves building moder
 * REST APIs
 ## 🌐 Connect with Me
 
-* 🌍 Portfolio: **muhammad-hamza-athar-portfolio.vercel.app**
+* 🌍 Portfolio: **https://muhammad-hamza-athar-portfolio.vercel.app/**
 * 📧 Email: **[jarrysultan@gmail.com](mailto:jarrysultan@gmail.com)**
 * ▲ Vercel: **https://vercel.com/mianhamzaathars-projects**
 
