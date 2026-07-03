@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Hamza Athar! 👋
 
-<!--
-**mianhamzaathar/mianhamzaathar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Developer** from Pakistan who loves building modern web applications and solving real-world problems through code.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍 Based in Pakistan
+* 💻 Full Stack Developer
+* 🚀 Passionate about Web Development, AI & Cybersecurity
+* 🌱 Currently learning cloud technologies and scalable applications
+
+## 🛠️ Skills
+
+**Languages:** Python, JavaScript, TypeScript, HTML, CSS, SQL
+
+**Frameworks & Libraries:** Django, React, Next.js, Bootstrap
+
+**Databases & Backend:** MongoDB, Firebase, REST APIs
+
+**Tools:** Git, Docker, Linux, VS Code
+
+## 📈 GitHub Stats
+
+<!-- Add your GitHub stats card here -->
+
+## 💬 Ask Me About
+
+* Full Stack Development
+* Python & Django
+* React & Next.js
+* MongoDB & Firebase
+* REST APIs
+## 🌐 Connect with Me
+
+* 🌍 Portfolio: **muhammad-hamza-athar-portfolio.vercel.app**
+* 📧 Email: **[jarrysultan@gmail.com](mailto:jarrysultan@gmail.com)**
+* ▲ Vercel: **https://vercel.com/mianhamzaathars-projects**
+
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
