@@ -447,7 +447,7 @@ I thrive on solving real‑world problems through technology, continuously expan
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=mianhamzaathar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800"
+    src="https://github-readme-stats-pi-sage-11.vercel.app/api?username=mianhamzaathar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800"
     alt="GitHub Stats"
   />
 
