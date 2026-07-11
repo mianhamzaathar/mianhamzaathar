@@ -480,6 +480,7 @@ I thrive on solving real‑world problems through technology, continuously expan
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mianhamzaathar&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
 </p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
