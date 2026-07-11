@@ -1,6 +1,6 @@
 
 
----
+
 
 ```markdown
 <!--
@@ -390,4 +390,4 @@ Open To:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=150&section=footer" width="100%" />
 </p>
-```
+
