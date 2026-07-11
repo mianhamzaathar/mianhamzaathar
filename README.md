@@ -9,6 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=280&section=header&text=Muhammad%20Hamza%20Athar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descSize=20&descAlignY=55" width="100%" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(124, 58, 237, 0.3);" />
 </p>
 
+<!-- ===== TYPING SVG (Requested) ===== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=1000&lines=✦+Full+Stack+Developer+✦;Python+%26+Django+Architect;MERN+Stack+Master;React+%26+Next.js+Expert;Building+Scalable+AI-Enhanced+Solutions;Always+Pushing+the+Frontier" alt="Typing SVG" style="filter: drop-shadow(0 0 10px rgba(167, 139, 250, 0.3));" />
@@ -486,7 +487,7 @@ I thrive on solving real‑world problems through technology, continuously expan
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Requested)
 
 <p align="center">
   <picture>
@@ -558,3 +559,4 @@ Open To:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=150&section=footer" width="100%" style="border-radius: 20px; box-shadow: 0 -10px 30px rgba(124, 58, 237, 0.3);" />
 </p>
+
