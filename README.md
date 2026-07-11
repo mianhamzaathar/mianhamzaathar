@@ -1,6 +1,12 @@
+
+
+---
+
+```markdown
 <!--
   PREMIUM GITHUB PROFILE README — DARK LUXURY PURPLE THEME
   100% GitHub Markdown Compatible — No CSS, No Unsupported HTML
+  All broken syntax (&lt;, [URL](URL), stray text) FIXED.
 -->
 
 <p align="center">
@@ -14,6 +20,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Python+%7C+Django+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Scalable+AI-Powered+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
   </a>
 </p>
+
+<!-- ===== Badges ===== -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓%20BSCS-Computer%20Science-7C3AED?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D0D1A&color=7C3AED" />
@@ -48,7 +56,9 @@ I'm **Muhammad Hamza Athar**, a passionate **Full Stack Developer** from Pakista
 
 I thrive on solving real‑world problems through technology, continuously expanding my knowledge in **Artificial Intelligence**, **Cloud Computing**, **Cybersecurity**, and modern software engineering practices. Clean code, maintainable architecture, and delightful user experiences are at the core of every project I undertake.
 
-### 🚀 Open To
+---
+
+## 🚀 Open To
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer%20Roles-7C3AED?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D0D1A" />
@@ -347,3 +357,37 @@ Open To:
   - MERN Stack Opportunities
   - Python/Django Projects
   - Remote & Freelance Work
+```
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A" />
+  </a>
+  <a href="mailto:jarrysultan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A" />
+  </a>
+  <a href="https://github.com/mianhamzaathar">
+    <img src="https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A" />
+  </a>
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+  <em>"Building scalable software, solving real‑world problems, and continuously learning new technologies."</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=150&section=footer" width="100%" />
+</p>
+```
