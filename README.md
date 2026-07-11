@@ -1,4 +1,4 @@
-```markdown
+
 <!--
   Premium GitHub Profile README — Dark Luxury Purple/Indigo/Violet Theme
   Engineered for FAANG-level presence and recruiter appeal
