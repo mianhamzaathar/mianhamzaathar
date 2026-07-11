@@ -106,10 +106,10 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 | **Backend Development** | Node.js, Express.js, Python, Django, Django REST Framework |
 | **Databases** | MongoDB, Firebase Firestore, Firebase Authentication, Firebase Storage, MySQL |
 | **Programming Languages** | Python, JavaScript, TypeScript, SQL |
-| **API Development** | REST APIs, JWT Authentication |
+| **API Development** | REST APIs, JWT Authentication |Google Authentication
 | **Version Control** | Git, GitHub |
-| **Deployment** | Vercel |
-| **Development Tools** | Docker, Linux, VS Code, Postman |
+| **Deployment** | Vercel, Riailway , PythonAnywhere|
+| **Development Tools** | VS Code, Postman |
 
 ---
 
