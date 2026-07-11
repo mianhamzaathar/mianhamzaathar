@@ -9,9 +9,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=280&section=header&text=Muhammad%20Hamza%20Athar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descSize=20&descAlignY=55" width="100%" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(124, 58, 237, 0.3);" />
 </p>
 
+<!-- ===== Animated Typing SVG ===== -->
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=1000&lines=✦+Full+Stack+Developer+✦;Python+%26+Django+Architect;MERN+Stack+Master;React+%26+Next.js+Expert;Building+Scalable+AI-Enhanced+Solutions;Always+Pushing+the+Frontier" alt="Typing SVG" style="filter: drop-shadow(0 0 10px rgba(167, 139, 250, 0.3));" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Python+%7C+Django+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Scalable+AI-Powered+Applications;Always+Learning+New+Technologies"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
