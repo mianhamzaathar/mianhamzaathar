@@ -491,19 +491,33 @@ NeuroMeet AI is a real‑time communication platform combining HD video conferen
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-🐍 Contribution Snake (Requested)
+<!-- 🐍 Contribution Snake -->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mianhamzaathar/mianhamzaathar/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mianhamzaathar/mianhamzaathar/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://github.com/mianhamzaathar/mianhamzaathar/blob/output/github-contribution-grid-snake-dark.svg" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.3);" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake-dark.svg"
+      width="100%"
+    />
   </picture>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
-</div>
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="80%"
+    alt="divider"
+  />
+</p>
 
 💻 Current Focus
 
