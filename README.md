@@ -1,8 +1,4 @@
 
-
-
-
-```markdown
 <!--
   PREMIUM GITHUB PROFILE README — DARK LUXURY PURPLE THEME
   100% GitHub Markdown Compatible — No CSS, No Unsupported HTML
