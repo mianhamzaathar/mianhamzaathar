@@ -18,7 +18,7 @@ PREMIUM GITHUB PROFILE README — DARK LUXURY PURPLE THEME
 
 <a href="https://git.io/typing-svg">
 
-text
+
 
 &lt;img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=4000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Full+Stack+Developer;Python+%7C+Django+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Scalable+AI-Powered+Applications;Always+Learning+New+Technologies](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Python+%7C+Django+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Scalable+AI-Powered+Applications;Always+Learning+New+Technologies)" alt="Typing SVG" /&gt;
 </a>
@@ -35,14 +35,14 @@ text
 
 <a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
 
-text
+
 
 &lt;img src="[https://img.shields.io/badge/🌐%20Portfolio-Visit-6D28D9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0D0D1A&amp;color=6D28D9](https://img.shields.io/badge/🌐%20Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A&color=6D28D9)" /&gt;
 </a>
 
 <a href="mailto:jarrysultan@gmail.com">
 
-text
+
 
 &lt;img src="[https://img.shields.io/badge/📧%20Email-Contact-9333EA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D0D1A&amp;color=9333EA](https://img.shields.io/badge/📧%20Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A&color=9333EA)" /&gt;
 </a>
