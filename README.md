@@ -153,7 +153,6 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 - Firebase
 - REST APIs
 - Authentication & Authorization
-- Docker
 - Git & GitHub
 - Modern Web Development
 
