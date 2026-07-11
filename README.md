@@ -155,13 +155,11 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 - Authentication & Authorization
 - Git & GitHub
 - Modern Web Development
-
----
 ```markdown
 # 📦 Featured Projects
 
 <details>
-<summary><strong>🚀 Qora— AI-Powered Screen Recording & Video Collaboration Platform</strong></summary>
+<summary><strong>🚀 Qora — AI-Powered Screen Recording & Video Collaboration Platform</strong></summary>
 
 <br>
 
@@ -180,8 +178,11 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 - 📊 Analytics Dashboard
 - 🔐 Google Authentication
 - 📱 Responsive UI
-- 🤖 AI Ready Architecture
+- 🤖 AI-Powered Video Features
 - ⚡ High-Speed Video Streaming
+- 📂 Video Organization
+- 🏷️ Custom Sharing Links
+- 📈 Video Analytics
 
 </details>
 
@@ -200,17 +201,19 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 
 ### ✨ Key Features
 
-- 🛍 Luxury Storefront
+- 🛍️ Luxury Storefront
 - ❤️ Wishlist
 - 🛒 Shopping Cart
-- 🔍 Smart Search
+- 🔍 Smart Product Search
 - 📂 Categories & Filters
 - 🌍 Multi-language Support
 - 👤 Customer Dashboard
 - ⚙️ Admin Dashboard
-- 📱 Fully Responsive
+- 📦 Inventory Management
 - 💳 Payment Integration Ready
 - 🔐 Google Authentication
+- 📱 Fully Responsive Design
+
 </details>
 
 ---
@@ -220,79 +223,79 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 
 <br>
 
-**AI-Assisted Journal Reviewer System** is an AI-powered research platform that helps researchers, students, editors, and reviewers analyze scientific manuscripts. Users can upload research papers (PDF/DOCX), and the system automatically extracts key information, generates intelligent insights, validates research originality, and enables interactive conversations with the uploaded paper using Generative AI.
+**AI-Assisted Journal Reviewer System** is an AI-powered platform that helps researchers, students, editors, and reviewers analyze research papers using Natural Language Processing and Generative AI. Users can upload research papers (PDF/DOCX), receive AI-generated insights, validate research originality, discover related publications, and interact with their documents through an intelligent chat assistant.
 
 | **Stack** | **Scale** | **Performance** | **Security** | **Impact** | **Repository** |
 |------------|-----------|-----------------|--------------|------------|----------------|
-| Python, Django, Django REST Framework, React, Tailwind CSS, Gemini AI, MongoDB | AI Research Platform | Optimized NLP Processing | Secure Authentication & Role-Based Access | Faster Research Review & Paper Analysis | Private |
+| Python, Django, Django REST Framework, React, Tailwind CSS, Gemini AI, MongoDB | AI Research Platform | Optimized NLP Processing | Secure Authentication & Role-Based Access | Faster Research Review & Intelligent Paper Analysis | Private |
 
 ### ✨ AI Features
 
 #### 📄 Intelligent Document Analysis
 
-- Upload Research Papers (PDF/DOCX)
-- Automatic Title Extraction
-- Author Detection
-- Abstract Extraction
-- Research Domain Identification
-- AI Generated Summary
-- Keyword Extraction
-- Topic Classification
+- 📤 Upload Research Papers (PDF/DOCX)
+- 📝 Automatic Title Extraction
+- 👤 Author Detection
+- 📄 Abstract Extraction
+- 🧬 Research Domain Identification
+- 🤖 AI-Generated Summary
+- 🔑 Keyword Extraction
+- 🏷️ Topic Classification
 
 ---
 
 #### 📊 NLP & Analytics
 
-- Word Frequency Analysis
-- Interactive Word Cloud
-- Important Phrase Detection
-- Reading Statistics
-- Section-wise Analysis
-- Citation Detection
+- 📈 Word Frequency Analysis
+- ☁️ Interactive Word Cloud
+- 📝 Important Phrase Detection
+- 📖 Reading Statistics
+- 📑 Section-wise Analysis
+- 📚 Citation Detection
 
 ---
 
 #### 🔍 Research Validation
 
-- Search Similar Papers
-- Google Scholar Integration
-- Related Research Recommendation
-- Existing Publication Detection
-- Similar Title & Abstract Matching
-- Manuscript Relevancy Analysis
+- 🔎 Search Similar Research Papers
+- 🎓 Google Scholar Integration
+- 📚 Related Paper Recommendations
+- 📄 Existing Publication Detection
+- 📋 Similar Title & Abstract Matching
+- 🎯 Manuscript Relevancy Analysis
 
 ---
 
 #### 🤖 AI Chat with Paper
 
-- Chat with Uploaded Research Paper
-- Context-Aware AI Assistant
-- Ask Questions About the Paper
-- Explain Complex Concepts
-- Generate Custom Summaries
-- Answer Based Only on Uploaded Document
+- 💬 Chat with Uploaded Research Paper
+- 🧠 Context-Aware AI Assistant
+- ❓ Ask Questions About the Paper
+- 📖 Explain Complex Concepts
+- ✍️ Generate Custom Summaries
+- 🎯 Answers Based Only on Uploaded Document
 
 ---
 
 #### 👨‍⚖️ Reviewer Assistance
 
-- Research Quality Insights
-- Missing Section Detection
-- AI Review Suggestions
-- Manuscript Evaluation
-- Reviewer Dashboard
-- Research Workflow Management
+- 📊 Research Quality Insights
+- 🔍 Missing Section Detection
+- 🤖 AI Review Suggestions
+- 📑 Manuscript Evaluation
+- 👨‍💼 Reviewer Dashboard
+- 📈 Research Workflow Management
 
 ---
 
 #### 🔐 Platform Features
 
-- Secure Authentication
-- Multi-Role System (Author, Reviewer, Editor)
-- Document Management
-- Dashboard Analytics
-- Responsive Interface
-- Cloud-Ready Architecture
+- 🔐 Secure Authentication
+- 👥 Multi-Role System (Author, Reviewer & Editor)
+- 📂 Document Management
+- 📊 Dashboard Analytics
+- 📱 Responsive Interface
+- ☁️ Cloud-Ready Architecture
 
 </details>
 
@@ -303,34 +306,66 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 
 <br>
 
-**NeuroMeet AI** is a real-time communication platform that combines HD video meetings, instant messaging, screen sharing, and AI-powered collaboration tools to enhance productivity and remote teamwork.
+**NeuroMeet AI** is a real-time communication and collaboration platform that combines HD video conferencing, messaging, AI-powered meeting assistance, attendance management, and collaborative productivity tools for educational institutions, businesses, and remote teams.
 
 | **Stack** | **Scale** | **Performance** | **Security** | **Impact** | **Repository** |
 |------------|-----------|-----------------|--------------|------------|----------------|
-| Django Channels, WebRTC, JavaScript, Bootstrap | Real-Time Platform | Low Latency Communication | Secure Meeting Rooms | Smart Remote Collaboration | Private |
+| Django, Django Channels, WebRTC, JavaScript, Bootstrap | Real-Time Collaboration Platform | Low-Latency Communication | Secure Authentication & Role-Based Access | Smart Online Collaboration | Private |
 
 ### ✨ Key Features
+
+#### 📹 Meetings
 
 - 📹 HD Video Meetings
 - 💬 Real-Time Chat
 - 🖥️ Screen Sharing
 - 👥 Meeting Rooms
-- 📝 Live Notes & Meeting Minutes
-- ✅ Live Attendance Tracking
 - 📅 Meeting Scheduling
-- 🔔 Real-Time Notifications
-- 📂 File & Document Sharing
-- 🎙️ Audio & Video Controls
 - 👤 Participant Management
+- 🎙️ Audio & Video Controls
+
+---
+
+#### 🤖 AI Productivity
+
 - 🤖 AI Meeting Assistant
+- 📝 Live Notes & Meeting Minutes
+- 📌 AI Meeting Summary
+- 📋 Action Item Generation
+- 🔍 Smart Search in Meeting Notes
+
+---
+
+#### 🎓 Education & Attendance
+
+- ✅ Live Attendance Tracking
+- 📊 Attendance Reports
+- 👨‍🏫 Teacher Dashboard
+- 👨‍🎓 Student Dashboard
+- 📚 Classroom Management
+
+---
+
+#### 📂 Collaboration
+
+- 📂 File & Document Sharing
+- 🔔 Real-Time Notifications
 - 📌 Meeting History
 - ☁️ Cloud-Based Collaboration
-- 🔐 Secure Authentication & Role-Based Access
-- 📱 Fully Responsive Interface
-```
 
+---
+
+#### 🔐 Security
+
+- 🔐 Secure Authentication
+- 👥 Role-Based Access Control
+- 🛡️ Protected Meeting Rooms
+- 📱 Fully Responsive Interface
 
 </details>
+
+---
+```
 
 ---
 
