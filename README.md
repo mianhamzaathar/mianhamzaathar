@@ -476,23 +476,9 @@ I thrive on solving real‑world problems through technology, continuously expan
     alt="divider"
   />
 </p>
-## 🏆 GitHub Trophies
-
+👀 Visitor Counter
 <p align="center">
-  <img
-    src="https://github-profile-trophy-abc123.vercel.app/?username=mianhamzaathar&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-    width="80%"
-    alt="divider"
-  />
+  <img src="https://komarev.com/ghpvc/?username=mianhamzaathar&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
 </p>
 ## 📈 Contribution Graph
 
