@@ -122,6 +122,7 @@ I thrive on solving real‑world problems through technology, continuously expan
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </p>
+
 ## 📦 Featured Projects
 
 <details>
@@ -309,6 +310,7 @@ This AI-powered platform helps researchers, students, editors, and reviewers ana
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
 </p>
+
 ## 💼 Professional Experience
 
 | Role | Organization | Duration | Key Contributions |
