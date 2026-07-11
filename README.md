@@ -138,7 +138,7 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 | ⚡ Performance Optimization | Backend & Frontend Performance |
 | 🏗️ Software Architecture | Enterprise Application Design |
 
----
+
 
 # 💬 Ask Me About
 
@@ -155,7 +155,9 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 - Authentication & Authorization
 - Git & GitHub
 - Modern Web Development
-```markdown
+  
+  ---
+  
 # 📦 Featured Projects
 
 <details>
