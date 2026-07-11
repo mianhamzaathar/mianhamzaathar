@@ -445,51 +445,75 @@ I thrive on solving real‑world problems through technology, continuously expan
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/mianhamzaathar">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mianhamzaathar&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.3);" />
-    <img height="180" src="https://streak-stats.demolab.com?user=mianhamzaathar&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6D28D9&ring=A78BFA&fire=8B5CF6&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6D28D9" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.3);" />
-  </a>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=mianhamzaathar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=mianhamzaathar&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mianhamzaathar">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianhamzaathar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=C4B5FD&langs_count=8" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.3);" />
-  </a>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianhamzaathar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
-</div>
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="80%"
+    alt="divider"
+  />
+</p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/mianhamzaathar">
-    <img src="https://github-profile-trophy.vercel.app/?username=mianhamzaathar&theme=discord&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.3);" />
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mianhamzaathar&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
-</div>
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="80%"
+    alt="divider"
+  />
+</p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/mianhamzaathar">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mianhamzaathar&theme=react-dark&bg_color=0D0D1A&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true&custom_title=Contribution%20Graph" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.3);" />
-  </a>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mianhamzaathar&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
-</div>
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="80%"
+    alt="divider"
+  />
+</p>
 
 ## 🐍 Contribution Snake
 
