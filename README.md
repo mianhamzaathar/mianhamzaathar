@@ -122,7 +122,6 @@ I thrive on solving real‑world problems through technology, continuously expan
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </p>
-
 ## 📦 Featured Projects
 
 <details>
@@ -130,163 +129,185 @@ I thrive on solving real‑world problems through technology, continuously expan
 
 <br>
 
-**Qora** is a modern SaaS platform for screen recording, cloud video management, secure sharing, and AI-powered collaboration. It enables individuals and teams to record, upload, organize, and share videos with high-speed streaming and intuitive controls.
+<p>
+<strong>Qora</strong> is a modern SaaS platform for screen recording, cloud video management, secure sharing, and AI-powered collaboration. It enables individuals and teams to record, upload, organize, and share videos with high-speed streaming and intuitive controls.
+</p>
 
 <table>
-  <thead>
-    <tr>
-      <th>Stack</th>
-      <th>Scale</th>
-      <th>Performance</th>
-      <th>Security</th>
-      <th>Impact</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Next.js 15, React 19, Tailwind CSS, Node.js, PostgreSQL, Drizzle ORM, Better Auth, Bunny.net</td>
-      <td>SaaS Ready</td>
-      <td>Optimized Video Streaming</td>
-      <td>Authentication & Secure Sharing</td>
-      <td>Productivity & Team Collaboration</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Stack</th>
+<th>Scale</th>
+<th>Performance</th>
+<th>Security</th>
+<th>Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Next.js 15, React 19, Tailwind CSS, Node.js, PostgreSQL, Drizzle ORM, Better Auth, Bunny.net</td>
+<td>SaaS Ready</td>
+<td>Optimized Video Streaming</td>
+<td>Authentication & Secure Sharing</td>
+<td>Productivity & Team Collaboration</td>
+</tr>
+</tbody>
 </table>
 
-### ✨ Key Features
+<h3>✨ Key Features</h3>
 
-- 🎥 Screen Recording & Cloud Upload
-- 🔗 Secure Video Sharing & Team Collaboration
-- 📊 Analytics Dashboard
-- 🔐 Google Authentication
-- 🤖 AI-Powered Video Features
-- 📱 Fully Responsive UI
+<ul>
+<li>🎥 Screen Recording & Cloud Upload</li>
+<li>🔗 Secure Video Sharing & Team Collaboration</li>
+<li>📊 Analytics Dashboard</li>
+<li>🔐 Google Authentication</li>
+<li>🤖 AI-Powered Video Features</li>
+<li>📱 Fully Responsive UI</li>
+</ul>
 
 </details>
+
+---
 
 <details>
 <summary><strong>🌸 House of Mehak — Premium Perfume E-Commerce Platform</strong></summary>
 
 <br>
 
-**House of Mehak** is a luxury perfume e-commerce platform delivering a premium online shopping experience with a modern UI, secure authentication, multilingual support, and a powerful admin dashboard.
+<p>
+<strong>House of Mehak</strong> is a luxury perfume e-commerce platform delivering a premium online shopping experience with a modern UI, secure authentication, multilingual support, and a powerful admin dashboard.
+</p>
 
 <table>
-  <thead>
-    <tr>
-      <th>Stack</th>
-      <th>Scale</th>
-      <th>Performance</th>
-      <th>Security</th>
-      <th>Impact</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Next.js, React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase</td>
-      <td>Enterprise Ready</td>
-      <td>Fast Product Loading</td>
-      <td>Authentication & Role-Based Access</td>
-      <td>Premium Shopping Experience</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Stack</th>
+<th>Scale</th>
+<th>Performance</th>
+<th>Security</th>
+<th>Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Next.js, React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase</td>
+<td>Enterprise Ready</td>
+<td>Fast Product Loading</td>
+<td>Authentication & Role-Based Access</td>
+<td>Premium Shopping Experience</td>
+</tr>
+</tbody>
 </table>
 
-### ✨ Key Features
+<h3>✨ Key Features</h3>
 
-- 🛍️ Luxury Storefront with Wishlist & Cart
-- 🔍 Smart Product Search & Filtering
-- 🌍 Multi-language Support
-- 🔐 Google Authentication
-- 👤 Customer Dashboard
-- ⚙️ Admin Dashboard & Inventory Management
-- 💳 Payment Integration Ready
-- 📱 Fully Responsive Design
+<ul>
+<li>🛍️ Luxury Storefront with Wishlist & Cart</li>
+<li>🔍 Smart Product Search & Filtering</li>
+<li>🌍 Multi-language Support</li>
+<li>🔐 Google Authentication</li>
+<li>👤 Customer Dashboard</li>
+<li>⚙️ Admin Dashboard & Inventory Management</li>
+<li>💳 Payment Integration Ready</li>
+<li>📱 Fully Responsive Design</li>
+</ul>
 
 </details>
+
+---
 
 <details>
 <summary><strong>🧠 AI-Assisted Journal Reviewer System — Intelligent Research Paper Analysis</strong></summary>
 
 <br>
 
+<p>
 This AI-powered platform helps researchers, students, editors, and reviewers analyze research papers using Natural Language Processing and Generative AI.
+</p>
 
 <table>
-  <thead>
-    <tr>
-      <th>Stack</th>
-      <th>Scale</th>
-      <th>Performance</th>
-      <th>Security</th>
-      <th>Impact</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Python, Django, Django REST, React, Tailwind, Gemini AI, MongoDB</td>
-      <td>AI Research Platform</td>
-      <td>Optimized NLP Processing</td>
-      <td>Secure Authentication & RBAC</td>
-      <td>Faster Research Review & Intelligent Analysis</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Stack</th>
+<th>Scale</th>
+<th>Performance</th>
+<th>Security</th>
+<th>Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Python, Django, Django REST, React, Tailwind, Gemini AI, MongoDB</td>
+<td>AI Research Platform</td>
+<td>Optimized NLP Processing</td>
+<td>Secure Authentication & RBAC</td>
+<td>Faster Research Review & Intelligent Analysis</td>
+</tr>
+</tbody>
 </table>
 
-### ✨ AI Features
+<h3>✨ AI Features</h3>
 
-- 📄 Intelligent Document Analysis
-- 📊 NLP Analytics
-- 🔍 Research Validation
-- 🤖 AI Chat with Paper
-- 👨‍⚖️ Reviewer Assistance
-- 🔐 Multi-Role System
+<ul>
+<li>📄 Intelligent Document Analysis (Title, Author, Abstract, Keywords)</li>
+<li>📊 NLP Analytics (Word Frequency, Phrase Detection)</li>
+<li>🔍 Research Validation & Similar Paper Search</li>
+<li>🤖 AI Chat with Research Papers</li>
+<li>👨‍⚖️ Reviewer Assistance</li>
+<li>🔐 Multi-Role System</li>
+</ul>
 
 </details>
+
+---
 
 <details>
 <summary><strong>🎥 NeuroMeet AI — Intelligent Video Conferencing Platform</strong></summary>
 
 <br>
 
-**NeuroMeet AI** is a real-time communication platform combining HD video conferencing, messaging, AI meeting assistance, attendance management, and collaborative tools.
+<p>
+<strong>NeuroMeet AI</strong> is a real-time communication platform combining HD video conferencing, messaging, AI meeting assistance, attendance management, and collaborative tools.
+</p>
 
 <table>
-  <thead>
-    <tr>
-      <th>Stack</th>
-      <th>Scale</th>
-      <th>Performance</th>
-      <th>Security</th>
-      <th>Impact</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Django, Django Channels, WebRTC, JavaScript, Bootstrap</td>
-      <td>Real-Time Collaboration</td>
-      <td>Low-Latency Communication</td>
-      <td>Secure Authentication & RBAC</td>
-      <td>Smart Online Collaboration</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Stack</th>
+<th>Scale</th>
+<th>Performance</th>
+<th>Security</th>
+<th>Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Django, Django Channels, WebRTC, JavaScript, Bootstrap</td>
+<td>Real-Time Collaboration</td>
+<td>Low-Latency Communication</td>
+<td>Secure Authentication & RBAC</td>
+<td>Smart Online Collaboration</td>
+</tr>
+</tbody>
 </table>
 
-### ✨ Key Features
+<h3>✨ Key Features</h3>
 
-- 📹 HD Video Meetings with Chat & Screen Sharing
-- 🤖 AI Meeting Assistant
-- ✅ Live Attendance Tracking & Reports
-- 👨‍🏫 Teacher & Student Dashboards
-- 📂 File Sharing & Real-Time Notifications
-- 🔐 Secure Meeting Rooms & Role-Based Access
+<ul>
+<li>📹 HD Video Meetings with Chat & Screen Sharing</li>
+<li>🤖 AI Meeting Assistant</li>
+<li>✅ Live Attendance Tracking & Reports</li>
+<li>👨‍🏫 Teacher & Student Dashboards</li>
+<li>📂 File Sharing & Real-Time Notifications</li>
+<li>🔐 Secure Meeting Rooms & Role-Based Access</li>
+</ul>
 
 </details>
 
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
 </p>
 ## 💼 Professional Experience
 
