@@ -366,8 +366,6 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 
 </details>
 
----
-```
 
 ---
 
