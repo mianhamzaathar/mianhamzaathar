@@ -126,81 +126,161 @@ I thrive on solving real‑world problems through technology, continuously expan
 ## 📦 Featured Projects
 
 <details>
-  <summary><strong>🚀 Qora — AI-Powered Screen Recording & Video Collaboration Platform</strong></summary>
-  <br />
+<summary><strong>🚀 Qora — AI-Powered Screen Recording & Video Collaboration Platform</strong></summary>
 
-  **Qora** is a modern SaaS platform for screen recording, cloud video management, secure sharing, and AI‑powered collaboration. It enables individuals and teams to record, upload, organize, and share videos with high‑speed streaming and intuitive controls.
+<br>
 
-  | Stack | Scale | Performance | Security | Impact |
-  |-------|-------|-------------|----------|--------|
-  | Next.js 15, React 19, Tailwind CSS, Node.js, PostgreSQL, Drizzle ORM, Better Auth, Bunny.net | SaaS Ready | Optimized Video Streaming | Authentication & Secure Sharing | Productivity & Team Collaboration |
+**Qora** is a modern SaaS platform for screen recording, cloud video management, secure sharing, and AI-powered collaboration. It enables individuals and teams to record, upload, organize, and share videos with high-speed streaming and intuitive controls.
 
-  **✨ Key Features**
-  - 🎥 Screen Recording & Cloud Upload
-  - 🔗 Secure Video Sharing & Team Collaboration
-  - 📊 Analytics Dashboard
-  - 🔐 Google Authentication
-  - 🤖 AI‑Powered Video Features
-  - 📱 Fully Responsive UI
+<table>
+  <thead>
+    <tr>
+      <th>Stack</th>
+      <th>Scale</th>
+      <th>Performance</th>
+      <th>Security</th>
+      <th>Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Next.js 15, React 19, Tailwind CSS, Node.js, PostgreSQL, Drizzle ORM, Better Auth, Bunny.net</td>
+      <td>SaaS Ready</td>
+      <td>Optimized Video Streaming</td>
+      <td>Authentication & Secure Sharing</td>
+      <td>Productivity & Team Collaboration</td>
+    </tr>
+  </tbody>
+</table>
+
+### ✨ Key Features
+
+- 🎥 Screen Recording & Cloud Upload
+- 🔗 Secure Video Sharing & Team Collaboration
+- 📊 Analytics Dashboard
+- 🔐 Google Authentication
+- 🤖 AI-Powered Video Features
+- 📱 Fully Responsive UI
+
 </details>
 
 <details>
-  <summary><strong>🌸 House of Mehak — Premium Perfume E‑Commerce Platform</strong></summary>
-  <br />
+<summary><strong>🌸 House of Mehak — Premium Perfume E-Commerce Platform</strong></summary>
 
-  **House of Mehak** is a luxury perfume e‑commerce platform delivering a premium online shopping experience with a modern UI, secure authentication, multilingual support, and a powerful admin dashboard.
+<br>
 
-  | Stack | Scale | Performance | Security | Impact |
-  |-------|-------|-------------|----------|--------|
-  | Next.js, React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase | Enterprise Ready | Fast Product Loading | Authentication & Role‑Based Access | Premium Shopping Experience |
+**House of Mehak** is a luxury perfume e-commerce platform delivering a premium online shopping experience with a modern UI, secure authentication, multilingual support, and a powerful admin dashboard.
 
-  **✨ Key Features**
-  - 🛍️ Luxury Storefront with Wishlist & Cart
-  - 🔍 Smart Product Search & Filtering
-  - 🌍 Multi‑language Support
-  - 🔐 Google Authentication
-  - 👤 Customer Dashboard
-  - ⚙️ Admin Dashboard & Inventory Management
-  - 💳 Payment Integration Ready
-  - 📱 Fully Responsive Design
+<table>
+  <thead>
+    <tr>
+      <th>Stack</th>
+      <th>Scale</th>
+      <th>Performance</th>
+      <th>Security</th>
+      <th>Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Next.js, React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase</td>
+      <td>Enterprise Ready</td>
+      <td>Fast Product Loading</td>
+      <td>Authentication & Role-Based Access</td>
+      <td>Premium Shopping Experience</td>
+    </tr>
+  </tbody>
+</table>
+
+### ✨ Key Features
+
+- 🛍️ Luxury Storefront with Wishlist & Cart
+- 🔍 Smart Product Search & Filtering
+- 🌍 Multi-language Support
+- 🔐 Google Authentication
+- 👤 Customer Dashboard
+- ⚙️ Admin Dashboard & Inventory Management
+- 💳 Payment Integration Ready
+- 📱 Fully Responsive Design
+
 </details>
 
 <details>
-  <summary><strong>🧠 AI-Assisted Journal Reviewer System — Intelligent Research Paper Analysis</strong></summary>
-  <br />
+<summary><strong>🧠 AI-Assisted Journal Reviewer System — Intelligent Research Paper Analysis</strong></summary>
 
-  This AI‑powered platform helps researchers, students, editors, and reviewers analyze research papers using Natural Language Processing and Generative AI. Upload PDF/DOCX, receive AI‑generated insights, validate originality, discover related publications, and chat with your documents.
+<br>
 
-  | Stack | Scale | Performance | Security | Impact |
-  |-------|-------|-------------|----------|--------|
-  | Python, Django, Django REST, React, Tailwind, Gemini AI, MongoDB | AI Research Platform | Optimized NLP Processing | Secure Authentication & RBAC | Faster Research Review & Intelligent Analysis |
+This AI-powered platform helps researchers, students, editors, and reviewers analyze research papers using Natural Language Processing and Generative AI.
 
-  **✨ AI Features**
-  - 📄 Intelligent Document Analysis (Title, Author, Abstract, Keywords)
-  - 📊 NLP Analytics (Word Frequency, Word Cloud, Phrase Detection)
-  - 🔍 Research Validation (Similar Paper Search, Google Scholar Integration)
-  - 🤖 AI Chat with Paper (Context‑Aware Q&A)
-  - 👨‍⚖️ Reviewer Assistance (Quality Insights, Missing Section Detection)
-  - 🔐 Multi‑Role System (Author, Reviewer, Editor)
+<table>
+  <thead>
+    <tr>
+      <th>Stack</th>
+      <th>Scale</th>
+      <th>Performance</th>
+      <th>Security</th>
+      <th>Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Python, Django, Django REST, React, Tailwind, Gemini AI, MongoDB</td>
+      <td>AI Research Platform</td>
+      <td>Optimized NLP Processing</td>
+      <td>Secure Authentication & RBAC</td>
+      <td>Faster Research Review & Intelligent Analysis</td>
+    </tr>
+  </tbody>
+</table>
+
+### ✨ AI Features
+
+- 📄 Intelligent Document Analysis
+- 📊 NLP Analytics
+- 🔍 Research Validation
+- 🤖 AI Chat with Paper
+- 👨‍⚖️ Reviewer Assistance
+- 🔐 Multi-Role System
+
 </details>
 
 <details>
-  <summary><strong>🎥 NeuroMeet AI — Intelligent Video Conferencing Platform</strong></summary>
-  <br />
+<summary><strong>🎥 NeuroMeet AI — Intelligent Video Conferencing Platform</strong></summary>
 
-  **NeuroMeet AI** is a real‑time communication platform combining HD video conferencing, messaging, AI meeting assistance, attendance management, and collaborative tools for educational institutions, businesses, and remote teams.
+<br>
 
-  | Stack | Scale | Performance | Security | Impact |
-  |-------|-------|-------------|----------|--------|
-  | Django, Django Channels, WebRTC, JavaScript, Bootstrap | Real‑Time Collaboration | Low‑Latency Communication | Secure Authentication & RBAC | Smart Online Collaboration |
+**NeuroMeet AI** is a real-time communication platform combining HD video conferencing, messaging, AI meeting assistance, attendance management, and collaborative tools.
 
-  **✨ Key Features**
-  - 📹 HD Video Meetings with Chat & Screen Sharing
-  - 🤖 AI Meeting Assistant (Live Notes, Summaries, Action Items)
-  - ✅ Live Attendance Tracking & Reports
-  - 👨‍🏫 Teacher & Student Dashboards
-  - 📂 File Sharing & Real‑Time Notifications
-  - 🔐 Secure Meeting Rooms & Role‑Based Access
+<table>
+  <thead>
+    <tr>
+      <th>Stack</th>
+      <th>Scale</th>
+      <th>Performance</th>
+      <th>Security</th>
+      <th>Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Django, Django Channels, WebRTC, JavaScript, Bootstrap</td>
+      <td>Real-Time Collaboration</td>
+      <td>Low-Latency Communication</td>
+      <td>Secure Authentication & RBAC</td>
+      <td>Smart Online Collaboration</td>
+    </tr>
+  </tbody>
+</table>
+
+### ✨ Key Features
+
+- 📹 HD Video Meetings with Chat & Screen Sharing
+- 🤖 AI Meeting Assistant
+- ✅ Live Attendance Tracking & Reports
+- 👨‍🏫 Teacher & Student Dashboards
+- 📂 File Sharing & Real-Time Notifications
+- 🔐 Secure Meeting Rooms & Role-Based Access
+
 </details>
 
 ---
@@ -208,7 +288,6 @@ I thrive on solving real‑world problems through technology, continuously expan
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </p>
-
 ## 💼 Professional Experience
 
 | Role | Organization | Duration | Key Contributions |
