@@ -443,11 +443,12 @@ I thrive on solving real‑world problems through technology, continuously expan
 </div>
 
 ## 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats-pi-sage-11.vercel.app/api?username=mianhamzaathar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800"
+    src="https://github-readme-stats-pi-sage-11.vercel.app/api?username=mianhamzaathar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 
@@ -461,7 +462,7 @@ I thrive on solving real‑world problems through technology, continuously expan
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianhamzaathar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
+    src="https://github-readme-stats-pi-sage-11.vercel.app/api/top-langs/?username=mianhamzaathar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
@@ -475,7 +476,6 @@ I thrive on solving real‑world problems through technology, continuously expan
     alt="divider"
   />
 </p>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
