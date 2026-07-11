@@ -429,4 +429,109 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 </p>
 
 ---
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mianhamzaathar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=mianhamzaathar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianhamzaathar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mianhamzaathar&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mianhamzaathar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Current Focus
+
+```yaml
+Name: Muhammad Hamza Athar
+
+Role: Full Stack Developer
+
+Working With:
+  - Python
+  - Django
+  - Node.js
+  - Express.js
+  - React.js
+  - Next.js
+  - MongoDB
+  - Firebase
+
+Currently Learning:
+  - Cloud Computing
+  - AI Applications
+  - Cybersecurity
+  - Software Architecture
+
+Open To:
+  - Full Stack Developer Roles
+  - MERN Stack Opportunities
+  - Python/Django Development
+  - Remote Jobs
+  - Freelance Projects
 ```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:jarrysultan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mianhamzaathar">
+<img src="https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Building scalable software, solving real-world problems, and continuously learning new technologies."**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer"/>
+
+</p>
