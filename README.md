@@ -93,7 +93,7 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 ## ☁️ DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,,vercel,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
 </p>
 
 ---
