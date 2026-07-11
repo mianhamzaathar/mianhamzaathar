@@ -1,329 +1,309 @@
-&lt;!--
+<!--
 
-  PREMIUM GITHUB PROFILE README — DARK LUXURY PURPLE THEME
+PREMIUM GITHUB PROFILE README — DARK LUXURY PURPLE THEME
 
-  100% GitHub Markdown Compatible — No CSS, No Unsupported HTML
+100% GitHub Markdown Compatible — No CSS, No Unsupported HTML
 
---&gt;
+-->
 
-&lt;p align="center"&gt;
+<p align="center">
 
-  &lt;img src="[https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,15,18,21,24&amp;height=280&amp;section=header&amp;text=Muhammad%20Hamza%20Athar&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&amp;descSize=20&amp;descAlignY=55](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=280&section=header&text=Muhammad%20Hamza%20Athar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descSize=20&descAlignY=55)" width="100%" /&gt;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=280&section=header&text=Muhammad%20Hamza%20Athar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descSize=20&descAlignY=55" width="100%" />
 
-&lt;/p&gt;
+</p>
 
-&lt;!-- ===== Animated Typing SVG ===== --&gt;
+<!-- ===== Animated Typing SVG ===== -->
 
-&lt;p align="center"&gt;
+<p align="center">
 
-  &lt;a href="[https://git.io/typing-svg](https://git.io/typing-svg)"&gt;
+<a href="https://git.io/typing-svg">
 
-    &lt;img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=4000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Full+Stack+Developer;Python+%7C+Django+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Scalable+AI-Powered+Applications;Always+Learning+New+Technologies](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Python+%7C+Django+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Scalable+AI-Powered+Applications;Always+Learning+New+Technologies)" alt="Typing SVG" /&gt;
+text
 
-  &lt;/a&gt;
+&lt;img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=4000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Full+Stack+Developer;Python+%7C+Django+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Scalable+AI-Powered+Applications;Always+Learning+New+Technologies](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Python+%7C+Django+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Scalable+AI-Powered+Applications;Always+Learning+New+Technologies)" alt="Typing SVG" /&gt;
+</a>
 
-&lt;/p&gt;
+</p>
 
-&lt;p align="center"&gt;
+<p align="center">
 
-  &lt;img src="[https://img.shields.io/badge/🎓%20BSCS-Computer%20Science-7C3AED?style=for-the-badge&amp;logo=academia&amp;logoColor=white&amp;labelColor=0D0D1A&amp;color=7C3AED](https://img.shields.io/badge/🎓%20BSCS-Computer%20Science-7C3AED?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D0D1A&color=7C3AED)" /&gt;
+<img src="https://img.shields.io/badge/🎓%20BSCS-Computer%20Science-7C3AED?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D0D1A&color=7C3AED" />
 
-  &lt;img src="[https://img.shields.io/badge/💼%20Role-Full%20Stack%20Developer-8B5CF6?style=for-the-badge&amp;logo=code&amp;logoColor=white&amp;labelColor=0D0D1A&amp;color=8B5CF6](https://img.shields.io/badge/💼%20Role-Full%20Stack%20Developer-8B5CF6?style=for-the-badge&logo=code&logoColor=white&labelColor=0D0D1A&color=8B5CF6)" /&gt;
+<img src="https://img.shields.io/badge/💼%20Role-Full%20Stack%20Developer-8B5CF6?style=for-the-badge&logo=code&logoColor=white&labelColor=0D0D1A&color=8B5CF6" />
 
-  &lt;img src="[https://img.shields.io/badge/📍%20Location-Pakistan-7C3AED?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white&amp;labelColor=0D0D1A&amp;color=7C3AED](https://img.shields.io/badge/📍%20Location-Pakistan-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D0D1A&color=7C3AED)" /&gt;
+<img src="https://img.shields.io/badge/📍%20Location-Pakistan-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D0D1A&color=7C3AED" />
 
-  &lt;a href="[https://muhammad-hamza-athar-portfolio.vercel.app/](https://muhammad-hamza-athar-portfolio.vercel.app/)"&gt;
+<a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
 
-    &lt;img src="[https://img.shields.io/badge/🌐%20Portfolio-Visit-6D28D9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0D0D1A&amp;color=6D28D9](https://img.shields.io/badge/🌐%20Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A&color=6D28D9)" /&gt;
+text
 
-  &lt;/a&gt;
+&lt;img src="[https://img.shields.io/badge/🌐%20Portfolio-Visit-6D28D9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0D0D1A&amp;color=6D28D9](https://img.shields.io/badge/🌐%20Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A&color=6D28D9)" /&gt;
+</a>
 
-  &lt;a href="[mailto:jarrysultan@gmail.com](mailto:jarrysultan@gmail.com)"&gt;
+<a href="mailto:jarrysultan@gmail.com">
 
-    &lt;img src="[https://img.shields.io/badge/📧%20Email-Contact-9333EA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D0D1A&amp;color=9333EA](https://img.shields.io/badge/📧%20Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A&color=9333EA)" /&gt;
+text
 
-  &lt;/a&gt;
+&lt;img src="[https://img.shields.io/badge/📧%20Email-Contact-9333EA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D0D1A&amp;color=9333EA](https://img.shields.io/badge/📧%20Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A&color=9333EA)" /&gt;
+</a>
 
-  &lt;a href="[https://github.com/mianhamzaathar](https://github.com/mianhamzaathar)"&gt;
+<a href="https://github.com/mianhamzaathar">
 
-    &lt;img src="[https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D0D1A&amp;color=181717](https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A&color=181717)" /&gt;
+text
 
-  &lt;/a&gt;
+&lt;img src="[https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D0D1A&amp;color=181717](https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A&color=181717)" /&gt;
+</a>
 
-&lt;/p&gt;
+</p>
 
-&lt;p align="center"&gt;
+<p align="center">
 
-  &lt;img src="[https://komarev.com/ghpvc/?username=mianhamzaathar&amp;style=for-the-badge&amp;color=7C3AED&amp;label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=mianhamzaathar&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)" /&gt;
+<img src="https://komarev.com/ghpvc/?username=mianhamzaathar&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 
-  &lt;img src="[https://img.shields.io/github/followers/mianhamzaathar?style=for-the-badge&amp;color=8B5CF6&amp;label=FOLLOWERS](https://img.shields.io/github/followers/mianhamzaathar?style=for-the-badge&color=8B5CF6&label=FOLLOWERS)" /&gt;
+<img src="https://img.shields.io/github/followers/mianhamzaathar?style=for-the-badge&color=8B5CF6&label=FOLLOWERS" />
 
-  &lt;img src="[https://img.shields.io/github/stars/mianhamzaathar?affiliations=OWNER&amp;style=for-the-badge&amp;color=A78BFA&amp;label=TOTAL+STARS](https://img.shields.io/github/stars/mianhamzaathar?affiliations=OWNER&style=for-the-badge&color=A78BFA&label=TOTAL+STARS)" /&gt;
+<img src="https://img.shields.io/github/stars/mianhamzaathar?affiliations=OWNER&style=for-the-badge&color=A78BFA&label=TOTAL+STARS" />
 
-&lt;/p&gt;
+</p>
 
----
+<p align="center">
 
-&lt;p align="center"&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
+</p>
 
-&lt;/p&gt;
+👨‍💻 About Me
+I'm Muhammad Hamza Athar, a passionate Full Stack Developer from Pakistan who architects scalable, secure, and high-performance web applications. My expertise spans both the Python/Django ecosystem and the MERN Stack (MongoDB, Express.js, React, Node.js), enabling me to deliver end‑to‑end solutions from robust backend architectures to modern, interactive frontends.
 
-## 👨‍💻 About Me
+I thrive on solving real‑world problems through technology, continuously expanding my knowledge in Artificial Intelligence, Cloud Computing, Cybersecurity, and modern software engineering practices. Clean code, maintainable architecture, and delightful user experiences are at the core of every project I undertake.
 
-I'm **Muhammad Hamza Athar**, a passionate **Full Stack Developer** from Pakistan who architects scalable, secure, and high-performance web applications. My expertise spans both the **Python/Django** ecosystem and the **MERN Stack (MongoDB, Express.js, React, Node.js)**, enabling me to deliver end‑to‑end solutions from robust backend architectures to modern, interactive frontends.
+🚀 Open To
+<p align="center">
 
-I thrive on solving real‑world problems through technology, continuously expanding my knowledge in **Artificial Intelligence**, **Cloud Computing**, **Cybersecurity**, and modern software engineering practices. Clean code, maintainable architecture, and delightful user experiences are at the core of every project I undertake.
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer%20Roles-7C3AED?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D0D1A" />
 
-### 🚀 Open To
+<img src="https://img.shields.io/badge/Python%20%26%20Django-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D1A" />
 
-&lt;p align="center"&gt;
+<img src="https://img.shields.io/badge/MERN%20Stack-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D0D1A" />
 
-  &lt;img src="[https://img.shields.io/badge/Full%20Stack%20Developer%20Roles-7C3AED?style=for-the-badge&amp;logo=rocket&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Full%20Stack%20Developer%20Roles-7C3AED?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D0D1A)" /&gt;
+<img src="https://img.shields.io/badge/React%20%26%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D0D1A" />
 
-  &lt;img src="[https://img.shields.io/badge/Python%20%26%20Django-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Python%20%26%20Django-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D1A)" /&gt;
+<img src="https://img.shields.io/badge/Remote%20%26%20Freelance-FF6B6B?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D0D1A" />
 
-  &lt;img src="[https://img.shields.io/badge/MERN%20Stack-13AA52?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/MERN%20Stack-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D0D1A)" /&gt;
+</p>
 
-  &lt;img src="[https://img.shields.io/badge/React%20%26%20Next.js-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black&amp;labelColor=0D0D1A](https://img.shields.io/badge/React%20%26%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D0D1A)" /&gt;
+<p align="center">
 
-  &lt;img src="[https://img.shields.io/badge/Remote%20%26%20Freelance-FF6B6B?style=for-the-badge&amp;logo=upwork&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Remote%20%26%20Freelance-FF6B6B?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D0D1A)" /&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
-&lt;/p&gt;
+</p>
 
----
+🛠️ Tech Stack
+💻 Languages
+<p align="center">
 
-&lt;p align="center"&gt;
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql" />
 
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
+</p>
 
-&lt;/p&gt;
+🎨 Frontend
+<p align="center">
 
-## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 
-### 💻 Languages
+</p>
 
-&lt;p align="center"&gt;
+⚙️ Backend
+<p align="center">
 
-  &lt;img src="[https://skillicons.dev/icons?i=python,js,ts,html,css,mysql](https://skillicons.dev/icons?i=python,js,ts,html,css,mysql)" /&gt;
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 
-&lt;/p&gt;
+</p>
 
-### 🎨 Frontend
+🗄️ Databases & Services
+<p align="center">
 
-&lt;p align="center"&gt;
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
 
-  &lt;img src="[https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)" /&gt;
+</p>
 
-&lt;/p&gt;
+☁️ DevOps & Tools
+<p align="center">
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
 
-&lt;p align="center"&gt;
+</p>
 
-  &lt;img src="[https://skillicons.dev/icons?i=nodejs,express,django](https://skillicons.dev/icons?i=nodejs,express,django)" /&gt;
+<p align="center">
 
-&lt;/p&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
-### 🗄️ Databases &amp; Services
+</p>
 
-&lt;p align="center"&gt;
-
-  &lt;img src="[https://skillicons.dev/icons?i=mongodb,firebase,mysql](https://skillicons.dev/icons?i=mongodb,firebase,mysql)" /&gt;
-
-&lt;/p&gt;
-
-### ☁️ DevOps &amp; Tools
-
-&lt;p align="center"&gt;
-
-  &lt;img src="[https://skillicons.dev/icons?i=git,github,vercel,vscode,postman](https://skillicons.dev/icons?i=git,github,vercel,vscode,postman)" /&gt;
-
-&lt;/p&gt;
-
----
-
-&lt;p align="center"&gt;
-
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
-
-&lt;/p&gt;
-
-## 🧠 AI / ML Expertise
-
+🧠 AI / ML Expertise
 | Domain | Proficiency | Details |
 
 |--------|-------------|---------|
 
-| **Natural Language Processing** | ⭐⭐⭐⭐ | Gemini AI, Prompt Engineering, Document Summarization, Chat with Documents |
+| Natural Language Processing | ⭐⭐⭐⭐ | Gemini AI, Prompt Engineering, Document Summarization, Chat with Documents |
 
-| **Generative AI** | ⭐⭐⭐⭐ | AI‑Powered Research Paper Analysis, Intelligent Content Generation |
+| Generative AI | ⭐⭐⭐⭐ | AI‑Powered Research Paper Analysis, Intelligent Content Generation |
 
-| **Computer Vision** | ⭐⭐⭐ | Basic image processing, integration with AI services |
+| Computer Vision | ⭐⭐⭐ | Basic image processing, integration with AI services |
 
-| **ML Ops &amp; Deployment** | ⭐⭐⭐ | Django + AI integration, API design for AI models |
+| ML Ops & Deployment | ⭐⭐⭐ | Django + AI integration, API design for AI models |
 
----
+<p align="center">
 
-&lt;p align="center"&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
+</p>
 
-&lt;/p&gt;
+📦 Featured Projects
+<details>
 
-## 📦 Featured Projects
+<summary><strong>🚀 Qora — AI-Powered Screen Recording & Video Collaboration Platform</strong></summary>
 
-&lt;details&gt;
+<br />
 
-  &lt;summary&gt;&lt;strong&gt;🚀 Qora — AI-Powered Screen Recording &amp; Video Collaboration Platform&lt;/strong&gt;&lt;/summary&gt;
+Qora is a modern SaaS platform for screen recording, cloud video management, secure sharing, and AI‑powered collaboration. It enables individuals and teams to record, upload, organize, and share videos with high‑speed streaming and intuitive controls.
 
-  &lt;br /&gt;
+| Stack | Scale | Performance | Security | Impact |
 
-  **Qora** is a modern SaaS platform for screen recording, cloud video management, secure sharing, and AI‑powered collaboration. It enables individuals and teams to record, upload, organize, and share videos with high‑speed streaming and intuitive controls.
+|-------|-------|-------------|----------|--------|
 
-  | Stack | Scale | Performance | Security | Impact |
+| Next.js 15, React 19, Tailwind CSS, Node.js, PostgreSQL, Drizzle ORM, Better Auth, Bunny.net | SaaS Ready | Optimized Video Streaming | Authentication & Secure Sharing | Productivity & Team Collaboration |
 
-  |-------|-------|-------------|----------|--------|
+✨ Key Features
 
-  | Next.js 15, React 19, Tailwind CSS, Node.js, PostgreSQL, Drizzle ORM, Better Auth, [Bunny.net](http://Bunny.net) | SaaS Ready | Optimized Video Streaming | Authentication &amp; Secure Sharing | Productivity &amp; Team Collaboration |
+🎥 Screen Recording & Cloud Upload
 
-  **✨ Key Features**
+🔗 Secure Video Sharing & Team Collaboration
 
-  - 🎥 Screen Recording &amp; Cloud Upload
+📊 Analytics Dashboard
 
-  - 🔗 Secure Video Sharing &amp; Team Collaboration
+🔐 Google Authentication
 
-  - 📊 Analytics Dashboard
+🤖 AI‑Powered Video Features
 
-  - 🔐 Google Authentication
+📱 Fully Responsive UI
 
-  - 🤖 AI‑Powered Video Features
+</details>
 
-  - 📱 Fully Responsive UI
+<details>
 
-&lt;/details&gt;
+<summary><strong>🌸 House of Mehak — Premium Perfume E‑Commerce Platform</strong></summary>
 
-&lt;details&gt;
+<br />
 
-  &lt;summary&gt;&lt;strong&gt;🌸 House of Mehak — Premium Perfume E‑Commerce Platform&lt;/strong&gt;&lt;/summary&gt;
+House of Mehak is a luxury perfume e‑commerce platform delivering a premium online shopping experience with a modern UI, secure authentication, multilingual support, and a powerful admin dashboard.
 
-  &lt;br /&gt;
+| Stack | Scale | Performance | Security | Impact |
 
-  **House of Mehak** is a luxury perfume e‑commerce platform delivering a premium online shopping experience with a modern UI, secure authentication, multilingual support, and a powerful admin dashboard.
+|-------|-------|-------------|----------|--------|
 
-  | Stack | Scale | Performance | Security | Impact |
+| Next.js, React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase | Enterprise Ready | Fast Product Loading | Authentication & Role‑Based Access | Premium Shopping Experience |
 
-  |-------|-------|-------------|----------|--------|
+✨ Key Features
 
-  | Next.js, React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase | Enterprise Ready | Fast Product Loading | Authentication &amp; Role‑Based Access | Premium Shopping Experience |
+🛍️ Luxury Storefront with Wishlist & Cart
 
-  **✨ Key Features**
+🔍 Smart Product Search & Filtering
 
-  - 🛍️ Luxury Storefront with Wishlist &amp; Cart
+🌍 Multi‑language Support
 
-  - 🔍 Smart Product Search &amp; Filtering
+👤 Customer Dashboard
 
-  - 🌍 Multi‑language Support
+⚙️ Admin Dashboard & Inventory Management
 
-  - 👤 Customer Dashboard
+💳 Payment Integration Ready
 
-  - ⚙️ Admin Dashboard &amp; Inventory Management
+📱 Fully Responsive Design
 
-  - 💳 Payment Integration Ready
+</details>
 
-  - 📱 Fully Responsive Design
+<details>
 
-&lt;/details&gt;
+<summary><strong>🧠 AI-Assisted Journal Reviewer System — Intelligent Research Paper Analysis</strong></summary>
 
-&lt;details&gt;
+<br />
 
-  &lt;summary&gt;&lt;strong&gt;🧠 AI-Assisted Journal Reviewer System — Intelligent Research Paper Analysis&lt;/strong&gt;&lt;/summary&gt;
+This AI‑powered platform helps researchers, students, editors, and reviewers analyze research papers using Natural Language Processing and Generative AI. Upload PDF/DOCX, receive AI‑generated insights, validate originality, discover related publications, and chat with your documents.
 
-  &lt;br /&gt;
+| Stack | Scale | Performance | Security | Impact |
 
-  This AI‑powered platform helps researchers, students, editors, and reviewers analyze research papers using Natural Language Processing and Generative AI. Upload PDF/DOCX, receive AI‑generated insights, validate originality, discover related publications, and chat with your documents.
+|-------|-------|-------------|----------|--------|
 
-  | Stack | Scale | Performance | Security | Impact |
+| Python, Django, Django REST, React, Tailwind, Gemini AI, MongoDB | AI Research Platform | Optimized NLP Processing | Secure Authentication & RBAC | Faster Research Review & Intelligent Analysis |
 
-  |-------|-------|-------------|----------|--------|
+✨ AI Features
 
-  | Python, Django, Django REST, React, Tailwind, Gemini AI, MongoDB | AI Research Platform | Optimized NLP Processing | Secure Authentication &amp; RBAC | Faster Research Review &amp; Intelligent Analysis |
+📄 Intelligent Document Analysis (Title, Author, Abstract, Keywords)
 
-  **✨ AI Features**
+📊 NLP Analytics (Word Frequency, Word Cloud, Phrase Detection)
 
-  - 📄 Intelligent Document Analysis (Title, Author, Abstract, Keywords)
+🔍 Research Validation (Similar Paper Search, Google Scholar Integration)
 
-  - 📊 NLP Analytics (Word Frequency, Word Cloud, Phrase Detection)
+🤖 AI Chat with Paper (Context‑Aware Q&A)
 
-  - 🔍 Research Validation (Similar Paper Search, Google Scholar Integration)
+👨‍⚖️ Reviewer Assistance (Quality Insights, Missing Section Detection)
 
-  - 🤖 AI Chat with Paper (Context‑Aware Q&amp;A)
+🔐 Multi‑Role System (Author, Reviewer, Editor)
 
-  - 👨‍⚖️ Reviewer Assistance (Quality Insights, Missing Section Detection)
+</details>
 
-  - 🔐 Multi‑Role System (Author, Reviewer, Editor)
+<details>
 
-&lt;/details&gt;
+<summary><strong>🎥 NeuroMeet AI — Intelligent Video Conferencing Platform</strong></summary>
 
-&lt;details&gt;
+<br />
 
-  &lt;summary&gt;&lt;strong&gt;🎥 NeuroMeet AI — Intelligent Video Conferencing Platform&lt;/strong&gt;&lt;/summary&gt;
+NeuroMeet AI is a real‑time communication platform combining HD video conferencing, messaging, AI meeting assistance, attendance management, and collaborative tools for educational institutions, businesses, and remote teams.
 
-  &lt;br /&gt;
+| Stack | Scale | Performance | Security | Impact |
 
-  **NeuroMeet AI** is a real‑time communication platform combining HD video conferencing, messaging, AI meeting assistance, attendance management, and collaborative tools for educational institutions, businesses, and remote teams.
+|-------|-------|-------------|----------|--------|
 
-  | Stack | Scale | Performance | Security | Impact |
+| Django, Django Channels, WebRTC, JavaScript, Bootstrap | Real‑Time Collaboration | Low‑Latency Communication | Secure Authentication & RBAC | Smart Online Collaboration |
 
-  |-------|-------|-------------|----------|--------|
+✨ Key Features
 
-  | Django, Django Channels, WebRTC, JavaScript, Bootstrap | Real‑Time Collaboration | Low‑Latency Communication | Secure Authentication &amp; RBAC | Smart Online Collaboration |
+📹 HD Video Meetings with Chat & Screen Sharing
 
-  **✨ Key Features**
+🤖 AI Meeting Assistant (Live Notes, Summaries, Action Items)
 
-  - 📹 HD Video Meetings with Chat &amp; Screen Sharing
+✅ Live Attendance Tracking & Reports
 
-  - 🤖 AI Meeting Assistant (Live Notes, Summaries, Action Items)
+👨‍🏫 Teacher & Student Dashboards
 
-  - ✅ Live Attendance Tracking &amp; Reports
+📂 File Sharing & Real‑Time Notifications
 
-  - 👨‍🏫 Teacher &amp; Student Dashboards
+🔐 Secure Meeting Rooms & Role‑Based Access
 
-  - 📂 File Sharing &amp; Real‑Time Notifications
+</details>
 
-  - 🔐 Secure Meeting Rooms &amp; Role‑Based Access
+<p align="center">
 
-&lt;/details&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
----
+</p>
 
-&lt;p align="center"&gt;
-
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
-
-&lt;/p&gt;
-
-## 💼 Professional Experience
-
+💼 Professional Experience
 | Role | Organization | Duration | Key Contributions |
 
 |------|--------------|----------|-------------------|
 
-| **Frontend Development Intern** | CodeAlpha | 2025 | Built responsive React applications, reusable UI components, and optimized user experiences. |
+| Frontend Development Intern | CodeAlpha | 2025 | Built responsive React applications, reusable UI components, and optimized user experiences. |
 
-| **Full Stack Developer Intern** | HZ Software Solutions | 2026 | Developed scalable web applications using Django, React, Node.js, MongoDB, Firebase, and modern practices. |
+| Full Stack Developer Intern | HZ Software Solutions | 2026 | Developed scalable web applications using Django, React, Node.js, MongoDB, Firebase, and modern practices. |
 
----
+<p align="center">
 
-&lt;p align="center"&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
+</p>
 
-&lt;/p&gt;
-
-## 🏆 Achievements
-
+🏆 Achievements
 | Achievement | Details |
 
 |-------------|---------|
@@ -338,153 +318,137 @@ I thrive on solving real‑world problems through technology, continuously expan
 
 | 📚 Continuous Learner | Actively expanding expertise in AI, Cloud, and Cybersecurity. |
 
----
+<p align="center">
 
-&lt;p align="center"&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
+</p>
 
-&lt;/p&gt;
+📜 Certifications & Learning
+<p align="center">
 
-## 📜 Certifications &amp; Learning
+<img src="https://img.shields.io/badge/MERN%20Stack-Full%20Stack-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D0D1A" />
 
-&lt;p align="center"&gt;
+<img src="https://img.shields.io/badge/Python-Django-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D1A" />
 
-  &lt;img src="[https://img.shields.io/badge/MERN%20Stack-Full%20Stack-13AA52?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/MERN%20Stack-Full%20Stack-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D0D1A)" /&gt;
+<img src="https://img.shields.io/badge/React-Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D0D1A" />
 
-  &lt;img src="[https://img.shields.io/badge/Python-Django-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Python-Django-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D1A)" /&gt;
+<img src="https://img.shields.io/badge/Firebase-Auth%20%26%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D0D1A" />
 
-  &lt;img src="[https://img.shields.io/badge/React-Next.js-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black&amp;labelColor=0D0D1A](https://img.shields.io/badge/React-Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D0D1A)" /&gt;
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0D1A" />
 
-  &lt;img src="[https://img.shields.io/badge/Firebase-Auth%20%26%20Firestore-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black&amp;labelColor=0D0D1A](https://img.shields.io/badge/Firebase-Auth%20%26%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D0D1A)" /&gt;
+</p>
 
-  &lt;img src="[https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0D1A)" /&gt;
+<p align="center">
 
-&lt;/p&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
----
+</p>
 
-&lt;p align="center"&gt;
+🌐 Developer Profiles
+<p align="center">
 
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
+<a href="https://github.com/mianhamzaathar">
 
-&lt;/p&gt;
+text
 
-## 🌐 Developer Profiles
+&lt;img src="[https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)" /&gt;
+</a>
 
-&lt;p align="center"&gt;
+<a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
 
-  &lt;a href="[https://github.com/mianhamzaathar](https://github.com/mianhamzaathar)"&gt;
+text
 
-    &lt;img src="[https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)" /&gt;
+&lt;img src="[https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A)" /&gt;
+</a>
 
-  &lt;/a&gt;
+<a href="mailto:jarrysultan@gmail.com">
 
-  &lt;a href="[https://muhammad-hamza-athar-portfolio.vercel.app/](https://muhammad-hamza-athar-portfolio.vercel.app/)"&gt;
+text
 
-    &lt;img src="[https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A)" /&gt;
+&lt;img src="[https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A)" /&gt;
+</a>
 
-  &lt;/a&gt;
+</p>
 
-  &lt;a href="[mailto:jarrysultan@gmail.com](mailto:jarrysultan@gmail.com)"&gt;
+<p align="center">
 
-    &lt;img src="[https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A)" /&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
-  &lt;/a&gt;
+</p>
 
-&lt;/p&gt;
+📊 GitHub Analytics
+<p align="center">
 
----
+<img height="180" src="https://github-readme-stats-pi-sage-11.vercel.app/api?username=mianhamzaathar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-&lt;p align="center"&gt;
+<img height="180" src="https://streak-stats.demolab.com?user=mianhamzaathar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
+</p>
 
-&lt;/p&gt;
+<p align="center">
 
-## 📊 GitHub Analytics
+<img height="180" src="https://github-readme-stats-pi-sage-11.vercel.app/api/top-langs/?username=mianhamzaathar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-&lt;p align="center"&gt;
+</p>
 
-  &lt;img height="180" src="[https://github-readme-stats-pi-sage-11.vercel.app/api?username=mianhamzaathar&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;theme=tokyonight&amp;hide_border=true](https://github-readme-stats-pi-sage-11.vercel.app/api?username=mianhamzaathar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true)" alt="GitHub Stats" /&gt;
+<p align="center">
 
-  &lt;img height="180" src="[https://streak-stats.demolab.com?user=mianhamzaathar&amp;theme=tokyonight&amp;hide_border=true](https://streak-stats.demolab.com?user=mianhamzaathar&theme=tokyonight&hide_border=true)" alt="GitHub Streak" /&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
-&lt;/p&gt;
+</p>
 
-&lt;p align="center"&gt;
+👀 Visitor Counter
+<p align="center">
 
-  &lt;img height="180" src="[https://github-readme-stats-pi-sage-11.vercel.app/api/top-langs/?username=mianhamzaathar&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true](https://github-readme-stats-pi-sage-11.vercel.app/api/top-langs/?username=mianhamzaathar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)" alt="Top Languages" /&gt;
+<img src="https://komarev.com/ghpvc/?username=mianhamzaathar&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
 
-&lt;/p&gt;
+</p>
 
----
+<p align="center">
 
-&lt;p align="center"&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
+</p>
 
-&lt;/p&gt;
+📈 Contribution Graph
+<p align="center">
 
-## 👀 Visitor Counter
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mianhamzaathar&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
-&lt;p align="center"&gt;
+</p>
 
-  &lt;img src="[https://komarev.com/ghpvc/?username=mianhamzaathar&amp;label=Profile%20Views&amp;color=8B5CF6&amp;style=for-the-badge](https://komarev.com/ghpvc/?username=mianhamzaathar&label=Profile%20Views&color=8B5CF6&style=for-the-badge)" /&gt;
+<p align="center">
 
-&lt;/p&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
----
+</p>
 
-&lt;p align="center"&gt;
+🐍 Contribution Snake
+<p align="center">
 
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
+<picture>
 
-&lt;/p&gt;
+text
 
-## 📈 Contribution Graph
+&lt;source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake-dark.svg)" /&gt;
 
-&lt;p align="center"&gt;
+&lt;source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake.svg)" /&gt;
 
-  &lt;img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=mianhamzaathar&amp;theme=tokyo-night&amp;hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=mianhamzaathar&theme=tokyo-night&hide_border=true)" alt="Contribution Graph" /&gt;
+&lt;img alt="GitHub Contribution Snake" src="[https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake-dark.svg)" /&gt;
+</picture>
 
-&lt;/p&gt;
+</p>
 
----
+<p align="center">
 
-&lt;p align="center"&gt;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
+</p>
 
-&lt;/p&gt;
+💻 Current Focus
+YAML
 
-## 🐍 Contribution Snake
-
-&lt;p align="center"&gt;
-
-  &lt;picture&gt;
-
-    &lt;source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake-dark.svg)" /&gt;
-
-    &lt;source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake.svg)" /&gt;
-
-    &lt;img alt="GitHub Contribution Snake" src="[https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/mianhamzaathar/mianhamzaathar/output/github-contribution-grid-snake-dark.svg)" /&gt;
-
-  &lt;/picture&gt;
-
-&lt;/p&gt;
-
----
-
-&lt;p align="center"&gt;
-
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
-
-&lt;/p&gt;
-
-## 💻 Current Focus
-
-```yaml
 
 Name: Muhammad Hamza Athar
 
@@ -519,55 +483,47 @@ Open To:
   - Python/Django Projects
 
   - Remote &amp; Freelance Work
+<p align="center">
 
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 
----
+</p>
 
-&lt;p align="center"&gt;
+🌐 Connect With Me
+<p align="center">
 
-  &lt;img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="80%" /&gt;
+<a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
 
-&lt;/p&gt;
+text
 
-## 🌐 Connect With Me
+&lt;img src="[https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A)" /&gt;
+</a>
 
-&lt;p align="center"&gt;
+<a href="mailto:jarrysultan@gmail.com">
 
-  &lt;a href="[https://muhammad-hamza-athar-portfolio.vercel.app/](https://muhammad-hamza-athar-portfolio.vercel.app/)"&gt;
+text
 
-    &lt;img src="[https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A)" /&gt;
+&lt;img src="[https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A)" /&gt;
+</a>
 
-  &lt;/a&gt;
+<a href="https://github.com/mianhamzaathar">
 
-  &lt;a href="[mailto:jarrysultan@gmail.com](mailto:jarrysultan@gmail.com)"&gt;
+text
 
-    &lt;img src="[https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A)" /&gt;
+&lt;img src="[https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)" /&gt;
+</a>
 
-  &lt;/a&gt;
+</p>
 
-  &lt;a href="[https://github.com/mianhamzaathar](https://github.com/mianhamzaathar)"&gt;
+💡 Quote
+<p align="center">
 
-    &lt;img src="[https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D0D1A](https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)" /&gt;
+<em>"Building scalable software, solving real‑world problems, and continuously learning new technologies."</em>
 
-  &lt;/a&gt;
+</p>
 
-&lt;/p&gt;
+<p align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=150&section=footer" width="100%" />
 
-## 💡 Quote
-
-&lt;p align="center"&gt;
-
-  &lt;em&gt;"Building scalable software, solving real‑world problems, and continuously learning new technologies."&lt;/em&gt;
-
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-
-  &lt;img src="[https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:4F46E5&amp;height=150&amp;section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=150&section=footer)" width="100%" /&gt;
-
-&lt;/p&gt;
-
- 
+</p>
