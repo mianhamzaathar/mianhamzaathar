@@ -309,7 +309,6 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 |------------|-----------|-----------------|--------------|------------|----------------|
 | Django Channels, WebRTC, JavaScript, Bootstrap | Real-Time Platform | Low Latency Communication | Secure Meeting Rooms | Smart Remote Collaboration | Private |
 
-```markdown
 ### ✨ Key Features
 
 - 📹 HD Video Meetings
