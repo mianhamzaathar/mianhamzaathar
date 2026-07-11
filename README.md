@@ -1,536 +1,350 @@
+```markdown
+<!--
+  Premium GitHub Profile README — Dark Luxury Purple/Indigo/Violet Theme
+  Engineered for FAANG-level presence and recruiter appeal
+-->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=230&section=header&text=Muhammad%20Hamza%20Athar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+%7C+Django+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+%7C+Django+Expert;MERN+Stack+Architect;React+%26+Next.js+Specialist;Building+Scalable+Web+Applications;AI-Enhanced+Software+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/🎓%20BSCS-Computer%20Science-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/💼%20Role-Full%20Stack%20Developer-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/📍%20Location-Pakistan-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:jarrysultan@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mianhamzaathar">
-<img src="https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <img src="https://img.shields.io/badge/🎓%20BSCS-Computer%20Science-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼%20Role-Full%20Stack%20Developer-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍%20Location-Pakistan-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:jarrysultan@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mianhamzaathar">
+    <img src="https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mianhamzaathar&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/followers/mianhamzaathar?style=for-the-badge&color=8B5CF6"/>
-
-<img src="https://img.shields.io/github/stars/mianhamzaathar?affiliations=OWNER&style=for-the-badge&color=A78BFA"/>
-
+  <img src="https://komarev.com/ghpvc/?username=mianhamzaathar&style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/github/followers/mianhamzaathar?style=for-the-badge&color=8B5CF6" />
+  <img src="https://img.shields.io/github/stars/mianhamzaathar?affiliations=OWNER&style=for-the-badge&color=A78BFA" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **Muhammad Hamza Athar**, a passionate **Full Stack Developer** from Pakistan who enjoys building scalable, secure, and high-performance web applications.
+I'm **Muhammad Hamza Athar**, a passionate **Full Stack Developer** from Pakistan who crafts scalable, secure, and high-performance web applications. My expertise spans both the **Python/Django** ecosystem and the **MERN Stack (MongoDB, Express.js, React, Node.js)**, enabling me to build complete end‑to‑end solutions from robust backend architectures to modern, interactive frontends.
 
-My expertise spans both the **Python/Django** ecosystem and the **MERN Stack (MongoDB, Express.js, React, Node.js)**, allowing me to build complete end-to-end solutions from backend architecture to modern frontend interfaces.
-
-I enjoy solving real-world problems through technology and continuously improve my skills in **Artificial Intelligence**, **Cloud Computing**, **Cybersecurity**, and modern software engineering practices.
-
-I believe in writing clean, maintainable code, designing scalable architectures, and delivering applications that provide excellent user experiences.
+I thrive on solving real‑world problems through technology, continuously expanding my knowledge in **Artificial Intelligence**, **Cloud Computing**, **Cybersecurity**, and modern software engineering practices. Clean code, maintainable architecture, and delightful user experiences are at the core of every project I undertake.
 
 ### 🚀 Open To
 
-- Full Stack Developer Roles
+- Full Stack Developer Roles (Remote / On‑site)
 - Python / Django Development
 - MERN Stack Development
-- React & Next.js Development
-- Remote Opportunities
-- Freelance Projects
-- Open Source Collaboration
+- React & Next.js Projects
+- Freelance & Open Source Collaboration
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql" />
 </p>
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 </p>
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
-## 🗄️ Databases & Backend Services
+### 🗄️ Databases & Services
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
 </p>
 
-## ☁️ DevOps & Tools
+### ☁️ DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
 </p>
 
 ---
 
-# 🚀 Core Skills
+## 🧠 Core Competencies
 
-| Category | Technologies |
-|-----------|--------------|
-| **Frontend Development** | React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap |
-| **Backend Development** | Node.js, Express.js, Python, Django, Django REST Framework |
-| **Databases** | MongoDB, Firebase Firestore, Firebase Authentication, Firebase Storage, MySQL |
-| **Programming Languages** | Python, JavaScript, TypeScript, SQL |
-| **API Development** | REST APIs, JWT Authentication,Google Authentication|
-| **Version Control** | Git, GitHub |
-| **Deployment** | Vercel, Riailway , PythonAnywhere|
-| **Development Tools** | VS Code, Postman |
-
----
-
-# 🔥 What I Do
-
-- 🚀 Build scalable Full Stack Web Applications
-- ⚛️ Develop modern React & Next.js interfaces
-- 🟢 Create secure backend APIs using Node.js & Express
-- 🐍 Build powerful backend systems with Django
-- 🔥 Integrate Firebase Authentication, Firestore & Storage
-- 🍃 Design MongoDB databases
-- 📱 Build responsive and mobile-friendly user interfaces
-- 🔐 Implement secure authentication & authorization
-- ☁️ Deploy production-ready applications
-- 💡 Transform ideas into real-world software products
+| Category                 | Technologies                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| **Frontend Development** | React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap                     |
+| **Backend Development**  | Node.js, Express.js, Python, Django, Django REST Framework                  |
+| **Databases**            | MongoDB, Firebase (Firestore, Auth, Storage), MySQL                         |
+| **Languages**            | Python, JavaScript, TypeScript, SQL                                         |
+| **API & Auth**           | REST APIs, JWT, OAuth (Google)                                              |
+| **DevOps & Deployment**  | Git, GitHub, Vercel, Railway, PythonAnywhere                                |
+| **Tools**                | VS Code, Postman                                                            |
 
 ---
 
-# 🌱 Currently Learning
+## 🤖 AI / ML Expertise
 
-| Area | Focus |
-|------|-------|
-| ☁️ Cloud Computing | AWS, Azure & Scalable Deployments |
-| 🤖 Artificial Intelligence | AI-powered Web Applications |
-| 🔐 Cybersecurity | Secure Authentication & Web Security |
-| ⚡ Performance Optimization | Backend & Frontend Performance |
-| 🏗️ Software Architecture | Enterprise Application Design |
+| **Domain**               | **Proficiency** | **Details**                                                                 |
+|--------------------------|-----------------|-----------------------------------------------------------------------------|
+| **Natural Language Processing** | ⭐⭐⭐⭐       | Gemini AI, Prompt Engineering, Document Summarization, Chat with Documents |
+| **Generative AI**        | ⭐⭐⭐⭐         | AI‑Powered Research Paper Analysis, Intelligent Content Generation          |
+| **Computer Vision**      | ⭐⭐⭐           | Basic image processing, integration with AI services                        |
+| **ML Ops & Deployment**  | ⭐⭐⭐           | Django + AI integration, API design for AI models                          |
 
+---
 
-
-# 💬 Ask Me About
-
-- Full Stack Development
-- MERN Stack
-- Python & Django
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
-- REST APIs
-- Authentication & Authorization
-- Git & GitHub
-- Modern Web Development
-  
-  ---
-  
-# 📦 Featured Projects
+## 📦 Featured Projects
 
 <details>
-<summary><strong>🚀 Qora — AI-Powered Screen Recording & Video Collaboration Platform</strong></summary>
+  <summary><strong>🚀 Qora — AI-Powered Screen Recording & Video Collaboration Platform</strong></summary>
+  <br />
 
-<br>
+  **Qora** is a modern SaaS platform for screen recording, cloud video management, secure sharing, and AI‑powered collaboration. It enables individuals and teams to record, upload, organize, and share videos with high‑speed streaming and intuitive controls.
 
-**Qora** is a modern SaaS platform for screen recording, cloud video management, secure sharing, and AI-powered collaboration. It enables users to record, upload, organize, and share videos while providing a fast, secure, and intuitive experience for individuals and teams.
+  | **Stack**                          | **Scale**      | **Performance**           | **Security**               | **Impact**               | **Repository** |
+  |------------------------------------|----------------|---------------------------|----------------------------|--------------------------|----------------|
+  | Next.js 15, React 19, Tailwind CSS, Node.js, PostgreSQL, Drizzle ORM, Better Auth, Bunny.net | SaaS Ready     | Optimized Video Streaming | Authentication & Secure Sharing | Productivity & Team Collaboration | Private |
 
-| **Stack** | **Scale** | **Performance** | **Security** | **Impact** | **Repository** |
-|------------|-----------|-----------------|--------------|------------|----------------|
-| Next.js 15, React 19, Tailwind CSS, Node.js, PostgreSQL, Drizzle ORM, Better Auth, Bunny.net | SaaS Ready | Optimized Video Streaming | Authentication & Secure Sharing | Productivity & Team Collaboration | Private |
+  ### ✨ Key Features
+  - 🎥 Screen Recording & Cloud Upload
+  - 🔗 Secure Video Sharing & Team Collaboration
+  - 📊 Analytics Dashboard
+  - 🔐 Google Authentication
+  - 🤖 AI‑Powered Video Features
+  - 📱 Fully Responsive UI
 
-### ✨ Key Features
+</details>
 
-- 🎥 Screen Recording
-- ☁️ Cloud Video Upload
-- 🔗 Secure Video Sharing
-- 👥 Team Collaboration
-- 📊 Analytics Dashboard
-- 🔐 Google Authentication
-- 📱 Responsive UI
-- 🤖 AI-Powered Video Features
-- ⚡ High-Speed Video Streaming
-- 📂 Video Organization
-- 🏷️ Custom Sharing Links
-- 📈 Video Analytics
+<details>
+  <summary><strong>🌸 House of Mehak — Premium Perfume E‑Commerce Platform</strong></summary>
+  <br />
+
+  **House of Mehak** is a luxury perfume e‑commerce platform delivering a premium online shopping experience with a modern UI, secure authentication, multilingual support, and a powerful admin dashboard.
+
+  | **Stack**                                 | **Scale**         | **Performance**          | **Security**                     | **Impact**                 | **Repository** |
+  |-------------------------------------------|-------------------|--------------------------|----------------------------------|----------------------------|----------------|
+  | Next.js, React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase | Enterprise Ready  | Fast Product Loading     | Authentication & Role‑Based Access | Premium Shopping Experience | Private |
+
+  ### ✨ Key Features
+  - 🛍️ Luxury Storefront with Wishlist & Cart
+  - 🔍 Smart Product Search & Filtering
+  - 🌍 Multi‑language Support
+  - 👤 Customer Dashboard
+  - ⚙️ Admin Dashboard & Inventory Management
+  - 💳 Payment Integration Ready
+  - 📱 Fully Responsive Design
+
+</details>
+
+<details>
+  <summary><strong>🧠 AI-Assisted Journal Reviewer System — Intelligent Research Paper Analysis</strong></summary>
+  <br />
+
+  This AI‑powered platform helps researchers, students, editors, and reviewers analyze research papers using Natural Language Processing and Generative AI. Upload PDF/DOCX, receive AI‑generated insights, validate originality, discover related publications, and chat with your documents.
+
+  | **Stack**                                      | **Scale**          | **Performance**          | **Security**                     | **Impact**                   | **Repository** |
+  |------------------------------------------------|--------------------|--------------------------|----------------------------------|------------------------------|----------------|
+  | Python, Django, Django REST, React, Tailwind, Gemini AI, MongoDB | AI Research Platform | Optimized NLP Processing | Secure Authentication & RBAC | Faster Research Review & Intelligent Analysis | Private |
+
+  ### ✨ AI Features
+  - 📄 Intelligent Document Analysis (Title, Author, Abstract, Keywords)
+  - 📊 NLP Analytics (Word Frequency, Word Cloud, Phrase Detection)
+  - 🔍 Research Validation (Similar Paper Search, Google Scholar Integration)
+  - 🤖 AI Chat with Paper (Context‑Aware Q&A)
+  - 👨‍⚖️ Reviewer Assistance (Quality Insights, Missing Section Detection)
+  - 🔐 Multi‑Role System (Author, Reviewer, Editor)
+
+</details>
+
+<details>
+  <summary><strong>🎥 NeuroMeet AI — Intelligent Video Conferencing Platform</strong></summary>
+  <br />
+
+  **NeuroMeet AI** is a real‑time communication platform combining HD video conferencing, messaging, AI meeting assistance, attendance management, and collaborative tools for educational institutions, businesses, and remote teams.
+
+  | **Stack**                                            | **Scale**                | **Performance**           | **Security**                     | **Impact**                 | **Repository** |
+  |------------------------------------------------------|--------------------------|---------------------------|----------------------------------|----------------------------|----------------|
+  | Django, Django Channels, WebRTC, JavaScript, Bootstrap | Real‑Time Collaboration | Low‑Latency Communication | Secure Authentication & RBAC | Smart Online Collaboration | Private |
+
+  ### ✨ Key Features
+  - 📹 HD Video Meetings with Chat & Screen Sharing
+  - 🤖 AI Meeting Assistant (Live Notes, Summaries, Action Items)
+  - ✅ Live Attendance Tracking & Reports
+  - 👨‍🏫 Teacher & Student Dashboards
+  - 📂 File Sharing & Real‑Time Notifications
+  - 🔐 Secure Meeting Rooms & Role‑Based Access
 
 </details>
 
 ---
 
-<details>
-<summary><strong>🌸 House of Mehak — Premium Perfume E-Commerce Platform</strong></summary>
+## 💼 Professional Experience
 
-<br>
-
-**House of Mehak** is a luxury perfume e-commerce platform delivering a premium online shopping experience with modern UI, secure authentication, multilingual support, advanced product management, and a powerful admin dashboard.
-
-| **Stack** | **Scale** | **Performance** | **Security** | **Impact** | **Repository** |
-|------------|-----------|-----------------|--------------|------------|----------------|
-| Next.js, React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase | Enterprise Ready | Fast Product Loading | Authentication & Role-Based Access | Premium Shopping Experience | Private |
-
-### ✨ Key Features
-
-- 🛍️ Luxury Storefront
-- ❤️ Wishlist
-- 🛒 Shopping Cart
-- 🔍 Smart Product Search
-- 📂 Categories & Filters
-- 🌍 Multi-language Support
-- 👤 Customer Dashboard
-- ⚙️ Admin Dashboard
-- 📦 Inventory Management
-- 💳 Payment Integration Ready
-- 🔐 Google Authentication
-- 📱 Fully Responsive Design
-
-</details>
+| **Role**                       | **Organization**        | **Duration** | **Key Contributions**                                                                                     |
+|--------------------------------|-------------------------|--------------|-----------------------------------------------------------------------------------------------------------|
+| **Frontend Development Intern**| CodeAlpha               | 2025         | Built responsive React applications, reusable UI components, and optimized user experiences.              |
+| **Full Stack Developer Intern**| HZ Software Solutions   | 2026         | Developed scalable web applications using Django, React, Node.js, MongoDB, Firebase, and modern practices.|
 
 ---
 
-<details>
-<summary><strong>🧠 AI-Assisted Journal Reviewer System — Intelligent Research Paper Analysis Platform</strong></summary>
+## 🏆 Achievements
 
-<br>
-
-**AI-Assisted Journal Reviewer System** is an AI-powered platform that helps researchers, students, editors, and reviewers analyze research papers using Natural Language Processing and Generative AI. Users can upload research papers (PDF/DOCX), receive AI-generated insights, validate research originality, discover related publications, and interact with their documents through an intelligent chat assistant.
-
-| **Stack** | **Scale** | **Performance** | **Security** | **Impact** | **Repository** |
-|------------|-----------|-----------------|--------------|------------|----------------|
-| Python, Django, Django REST Framework, React, Tailwind CSS, Gemini AI, MongoDB | AI Research Platform | Optimized NLP Processing | Secure Authentication & Role-Based Access | Faster Research Review & Intelligent Paper Analysis | Private |
-
-### ✨ AI Features
-
-#### 📄 Intelligent Document Analysis
-
-- 📤 Upload Research Papers (PDF/DOCX)
-- 📝 Automatic Title Extraction
-- 👤 Author Detection
-- 📄 Abstract Extraction
-- 🧬 Research Domain Identification
-- 🤖 AI-Generated Summary
-- 🔑 Keyword Extraction
-- 🏷️ Topic Classification
+| **Achievement**                               | **Details**                                                                   |
+|-----------------------------------------------|-------------------------------------------------------------------------------|
+| 🎓 BS Computer Science Graduate               | Strong foundation in software engineering and algorithms.                    |
+| 💻 Full Stack Developer (MERN + Django)       | Proven ability to deliver production‑ready solutions across the stack.       |
+| 🚀 Multiple Production‑Level Projects         | Architected and deployed several full‑featured applications.                 |
+| 🌐 Personal Portfolio                         | Professional developer portfolio hosted on Vercel.                           |
+| 📚 Continuous Learner                         | Actively expanding expertise in AI, Cloud, and Cybersecurity.               |
 
 ---
 
-#### 📊 NLP & Analytics
-
-- 📈 Word Frequency Analysis
-- ☁️ Interactive Word Cloud
-- 📝 Important Phrase Detection
-- 📖 Reading Statistics
-- 📑 Section-wise Analysis
-- 📚 Citation Detection
-
----
-
-#### 🔍 Research Validation
-
-- 🔎 Search Similar Research Papers
-- 🎓 Google Scholar Integration
-- 📚 Related Paper Recommendations
-- 📄 Existing Publication Detection
-- 📋 Similar Title & Abstract Matching
-- 🎯 Manuscript Relevancy Analysis
-
----
-
-#### 🤖 AI Chat with Paper
-
-- 💬 Chat with Uploaded Research Paper
-- 🧠 Context-Aware AI Assistant
-- ❓ Ask Questions About the Paper
-- 📖 Explain Complex Concepts
-- ✍️ Generate Custom Summaries
-- 🎯 Answers Based Only on Uploaded Document
-
----
-
-#### 👨‍⚖️ Reviewer Assistance
-
-- 📊 Research Quality Insights
-- 🔍 Missing Section Detection
-- 🤖 AI Review Suggestions
-- 📑 Manuscript Evaluation
-- 👨‍💼 Reviewer Dashboard
-- 📈 Research Workflow Management
-
----
-
-#### 🔐 Platform Features
-
-- 🔐 Secure Authentication
-- 👥 Multi-Role System (Author, Reviewer & Editor)
-- 📂 Document Management
-- 📊 Dashboard Analytics
-- 📱 Responsive Interface
-- ☁️ Cloud-Ready Architecture
-
-</details>
-
----
-
-<details>
-<summary><strong>🎥 NeuroMeet AI — Intelligent Video Conferencing Platform</strong></summary>
-
-<br>
-
-**NeuroMeet AI** is a real-time communication and collaboration platform that combines HD video conferencing, messaging, AI-powered meeting assistance, attendance management, and collaborative productivity tools for educational institutions, businesses, and remote teams.
-
-| **Stack** | **Scale** | **Performance** | **Security** | **Impact** | **Repository** |
-|------------|-----------|-----------------|--------------|------------|----------------|
-| Django, Django Channels, WebRTC, JavaScript, Bootstrap | Real-Time Collaboration Platform | Low-Latency Communication | Secure Authentication & Role-Based Access | Smart Online Collaboration | Private |
-
-### ✨ Key Features
-
-#### 📹 Meetings
-
-- 📹 HD Video Meetings
-- 💬 Real-Time Chat
-- 🖥️ Screen Sharing
-- 👥 Meeting Rooms
-- 📅 Meeting Scheduling
-- 👤 Participant Management
-- 🎙️ Audio & Video Controls
-
----
-
-#### 🤖 AI Productivity
-
-- 🤖 AI Meeting Assistant
-- 📝 Live Notes & Meeting Minutes
-- 📌 AI Meeting Summary
-- 📋 Action Item Generation
-- 🔍 Smart Search in Meeting Notes
-
----
-
-#### 🎓 Education & Attendance
-
-- ✅ Live Attendance Tracking
-- 📊 Attendance Reports
-- 👨‍🏫 Teacher Dashboard
-- 👨‍🎓 Student Dashboard
-- 📚 Classroom Management
-
----
-
-#### 📂 Collaboration
-
-- 📂 File & Document Sharing
-- 🔔 Real-Time Notifications
-- 📌 Meeting History
-- ☁️ Cloud-Based Collaboration
-
----
-
-#### 🔐 Security
-
-- 🔐 Secure Authentication
-- 👥 Role-Based Access Control
-- 🛡️ Protected Meeting Rooms
-- 📱 Fully Responsive Interface
-
-</details>
-
-
----
-
-# 💼 Professional Experience
-
-| **Role** | **Organization** | **Duration** | **Key Contributions** |
-|-----------|------------------|--------------|-----------------------|
-| **Frontend Development Intern** | CodeAlpha | 2025 | Built responsive React applications, reusable UI components, and optimized user experiences using modern frontend technologies. |
-| **Full Stack Developer Intern** | HZ Software Solutions | 2026 | Developed scalable web applications using Django, React, Node.js, MongoDB, Firebase, REST APIs, and modern development practices. |
-
----
-
-# 🏆 Achievements
-
-| Achievement | Details |
-|-------------|---------|
-| 🎓 BS Computer Science Graduate | Strong Software Engineering Foundation |
-| 💻 Full Stack Developer | MERN Stack & Django Specialist |
-| 🚀 Multiple Production-Level Projects | Developed scalable web applications |
-| 🌐 Personal Portfolio | Professional developer portfolio hosted on Vercel |
-| 📚 Continuous Learning | AI, Cloud Computing & Cybersecurity |
-
----
-
-# 📜 Certifications & Learning
-
-> **Currently expanding expertise through hands-on development and continuous learning.**
+## 📜 Certifications & Learning
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/MERN%20Stack-Full%20Stack-13AA52?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-Django-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Firebase-Authentication%20%26%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/MERN%20Stack-Full%20Stack-13AA52?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Django-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-Auth%20%26%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-# 🌐 Developer Profiles
+## 🌐 Developer Profiles
 
 <p align="center">
-
-<a href="https://github.com/mianhamzaathar">
-<img src="https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:jarrysultan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mianhamzaathar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=mianhamzaathar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianhamzaathar&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://github.com/mianhamzaathar">
+    <img src="https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:jarrysultan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <p align="center">
+  <a href="https://github.com/mianhamzaathar">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mianhamzaathar&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+    <img height="170" src="https://streak-stats.demolab.com?user=mianhamzaathar&theme=midnight-purple&hide_border=true" />
+  </a>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mianhamzaathar&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
+<p align="center">
+  <a href="https://github.com/mianhamzaathar">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianhamzaathar&layout=compact&theme=midnight-purple&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mianhamzaathar&theme=tokyo-night&hide_border=true"/>
-
+  <a href="https://github.com/mianhamzaathar">
+    <img src="https://github-profile-trophy.vercel.app/?username=mianhamzaathar&theme=discord&no-frame=true&row=2&column=4" />
+  </a>
 </p>
 
 ---
 
-# 💻 Current Focus
+## 📈 Contribution Graph
 
+<p align="center">
+  <a href="https://github.com/mianhamzaathar">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mianhamzaathar&theme=react-dark&bg_color=0D0D1A&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  </a>
+</p>
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mianhamzaathar/mianhamzaathar/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mianhamzaathar/mianhamzaathar/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/mianhamzaathar/mianhamzaathar/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+## 💻 Current Focus
+
+```yaml
 Name: Muhammad Hamza Athar
-
 Role: Full Stack Developer
 
 Working With:
-  - Python
-  - Django
-  - Node.js
-  - Express.js
-  - React.js
-  - Next.js
-  - MongoDB
-  - Firebase
+  - Python & Django
+  - Node.js & Express.js
+  - React.js & Next.js
+  - MongoDB & Firebase
 
 Currently Learning:
-  - Cloud Computing
-  - AI Applications
-  - Cybersecurity
-  - Software Architecture
+  - Cloud Computing (AWS, Azure)
+  - AI Applications & MLOps
+  - Cybersecurity & Secure Architecture
+  - Advanced Software Design Patterns
 
 Open To:
   - Full Stack Developer Roles
   - MERN Stack Opportunities
-  - Python/Django Development
-  - Remote Jobs
-  - Freelance Projects
+  - Python/Django Projects
+  - Remote & Freelance Work
+```
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:jarrysultan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mianhamzaathar">
-<img src="https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:jarrysultan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mianhamzaathar">
+    <img src="https://img.shields.io/badge/GitHub-mianhamzaathar-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-# 💡 Quote
+## 💡 Quote
 
 <p align="center">
-
-> **"Building scalable software, solving real-world problems, and continuously learning new technologies."**
-
+  <em>"Building scalable software, solving real‑world problems, and continuously learning new technologies."</em>
 </p>
-
----
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer" width="100%" />
 </p>
+```
