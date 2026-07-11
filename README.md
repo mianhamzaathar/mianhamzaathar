@@ -479,10 +479,7 @@ I thrive on solving real‑world problems through technology, continuously expan
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=mianhamzaathar&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy-hamza.vercel.app/?username=mianhamzaathar&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
 
 ---
