@@ -469,7 +469,7 @@ I believe in writing clean, maintainable code, designing scalable architectures,
 
 # 💻 Current Focus
 
-```yaml
+
 Name: Muhammad Hamza Athar
 
 Role: Full Stack Developer
@@ -496,7 +496,6 @@ Open To:
   - Python/Django Development
   - Remote Jobs
   - Freelance Projects
-```
 
 ---
 
