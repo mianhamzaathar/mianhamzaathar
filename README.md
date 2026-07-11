@@ -1,4 +1,3 @@
-
 <!--
   ULTRA-PREMIUM 3D MODERN GITHUB PROFILE README
   Dark Luxury with 3D depth, gradients, glassmorphism, and futuristic aesthetics
@@ -9,10 +8,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=280&section=header&text=Muhammad%20Hamza%20Athar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descSize=20&descAlignY=55" width="100%" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(124, 58, 237, 0.3);" />
 </p>
 
+<!-- ===== Animated Typing SVG ===== -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=1000&lines=✦+Full+Stack+Developer+✦;Python+%26+Django+Architect;MERN+Stack+Master;React+%26+Next.js+Expert;Building+Scalable+AI-Enhanced+Solutions;Always+Pushing+the+Frontier" alt="Typing SVG" style="filter: drop-shadow(0 0 10px rgba(167, 139, 250, 0.3));" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Python+%7C+Django+Developer;MERN+Stack+Developer;React+%26+Next.js+Developer;Building+Scalable+AI-Powered+Applications;Always+Learning+New+Technologies"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
@@ -37,22 +40,21 @@
   <img src="https://img.shields.io/github/stars/mianhamzaathar?affiliations=OWNER&style=for-the-badge&color=A78BFA&label=TOTAL+STARS" />
 </p>
 
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 <div style="background: linear-gradient(145deg, #1a1025, #0D0D1A); padding: 25px; border-radius: 20px; border: 1px solid rgba(167, 139, 250, 0.2); box-shadow: 0 10px 30px rgba(124, 58, 237, 0.3); margin: 20px 0;">
 
-I'm **Muhammad Hamza Athar**, a passionate **Full Stack Developer** from Pakistan who architects scalable, secure, and high-performance web applications. My expertise spans both the **Python/Django** ecosystem and the **MERN Stack (MongoDB, Express.js, React, Node.js)**, enabling me to deliver end‑to‑end solutions from robust backend architectures to modern, interactive frontends.
+I'm Muhammad Hamza Athar, a passionate Full Stack Developer from Pakistan who architects scalable, secure, and high-performance web applications. My expertise spans both the Python/Django ecosystem and the MERN Stack (MongoDB, Express.js, React, Node.js), enabling me to deliver end‑to‑end solutions from robust backend architectures to modern, interactive frontends.
 
-I thrive on solving real‑world problems through technology, continuously expanding my knowledge in **Artificial Intelligence**, **Cloud Computing**, **Cybersecurity**, and modern software engineering practices. Clean code, maintainable architecture, and delightful user experiences are at the core of every project I undertake.
+I thrive on solving real‑world problems through technology, continuously expanding my knowledge in Artificial Intelligence, Cloud Computing, Cybersecurity, and modern software engineering practices. Clean code, maintainable architecture, and delightful user experiences are at the core of every project I undertake.
 
 </div>
 
-### 🚀 Open To
+🚀 Open To
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer%20Roles-7C3AED?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D0D1A" />
@@ -62,51 +64,47 @@ I thrive on solving real‑world problems through technology, continuously expan
   <img src="https://img.shields.io/badge/Remote%20%26%20Freelance-FF6B6B?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D0D1A" />
 </p>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### 💻 Languages
+💻 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql" />
 </p>
 
-### 🎨 Frontend
+🎨 Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend
+⚙️ Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
-### 🗄️ Databases & Services
+🗄️ Databases & Services
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
 </p>
 
-### ☁️ DevOps & Tools
+☁️ DevOps & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
 </p>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 🧠 AI / ML Expertise
+🧠 AI / ML Expertise
 
 <div style="overflow-x: auto; margin: 20px 0;">
   <table style="width: 100%; border-collapse: separate; border-spacing: 0 10px; background: transparent;">
@@ -142,13 +140,11 @@ I thrive on solving real‑world problems through technology, continuously expan
   </table>
 </div>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 📦 Featured Projects
+📦 Featured Projects
 
 <details>
   <summary style="font-size: 1.3em; font-weight: bold; color: #A78BFA; text-shadow: 0 0 10px rgba(167, 139, 250, 0.5);">
@@ -158,7 +154,7 @@ I thrive on solving real‑world problems through technology, continuously expan
 
   <div style="background: linear-gradient(145deg, #1a1025, #0D0D1A); padding: 20px; border-radius: 20px; border: 1px solid rgba(167, 139, 250, 0.2); box-shadow: 0 10px 30px rgba(124, 58, 237, 0.3);">
 
-  **Qora** is a modern SaaS platform for screen recording, cloud video management, secure sharing, and AI‑powered collaboration. It enables individuals and teams to record, upload, organize, and share videos with high‑speed streaming and intuitive controls.
+Qora is a modern SaaS platform for screen recording, cloud video management, secure sharing, and AI‑powered collaboration. It enables individuals and teams to record, upload, organize, and share videos with high‑speed streaming and intuitive controls.
 
   <table style="width: 100%; border-collapse: separate; border-spacing: 0 5px; background: transparent; margin: 10px 0;">
     <thead>
@@ -181,13 +177,19 @@ I thrive on solving real‑world problems through technology, continuously expan
     </tbody>
   </table>
 
-  **✨ Key Features**
-  - 🎥 Screen Recording & Cloud Upload
-  - 🔗 Secure Video Sharing & Team Collaboration
-  - 📊 Analytics Dashboard
-  - 🔐 Google Authentication
-  - 🤖 AI‑Powered Video Features
-  - 📱 Fully Responsive UI
+✨ Key Features
+
+🎥 Screen Recording & Cloud Upload
+
+🔗 Secure Video Sharing & Team Collaboration
+
+📊 Analytics Dashboard
+
+🔐 Google Authentication
+
+🤖 AI‑Powered Video Features
+
+📱 Fully Responsive UI
 
   </div>
 </details>
@@ -200,7 +202,7 @@ I thrive on solving real‑world problems through technology, continuously expan
 
   <div style="background: linear-gradient(145deg, #1a1025, #0D0D1A); padding: 20px; border-radius: 20px; border: 1px solid rgba(167, 139, 250, 0.2); box-shadow: 0 10px 30px rgba(124, 58, 237, 0.3);">
 
-  **House of Mehak** is a luxury perfume e‑commerce platform delivering a premium online shopping experience with a modern UI, secure authentication, multilingual support, and a powerful admin dashboard.
+House of Mehak is a luxury perfume e‑commerce platform delivering a premium online shopping experience with a modern UI, secure authentication, multilingual support, and a powerful admin dashboard.
 
   <table style="width: 100%; border-collapse: separate; border-spacing: 0 5px; background: transparent; margin: 10px 0;">
     <thead>
@@ -223,14 +225,21 @@ I thrive on solving real‑world problems through technology, continuously expan
     </tbody>
   </table>
 
-  **✨ Key Features**
-  - 🛍️ Luxury Storefront with Wishlist & Cart
-  - 🔍 Smart Product Search & Filtering
-  - 🌍 Multi‑language Support
-  - 👤 Customer Dashboard
-  - ⚙️ Admin Dashboard & Inventory Management
-  - 💳 Payment Integration Ready
-  - 📱 Fully Responsive Design
+✨ Key Features
+
+🛍️ Luxury Storefront with Wishlist & Cart
+
+🔍 Smart Product Search & Filtering
+
+🌍 Multi‑language Support
+
+👤 Customer Dashboard
+
+⚙️ Admin Dashboard & Inventory Management
+
+💳 Payment Integration Ready
+
+📱 Fully Responsive Design
 
   </div>
 </details>
@@ -243,7 +252,7 @@ I thrive on solving real‑world problems through technology, continuously expan
 
   <div style="background: linear-gradient(145deg, #1a1025, #0D0D1A); padding: 20px; border-radius: 20px; border: 1px solid rgba(167, 139, 250, 0.2); box-shadow: 0 10px 30px rgba(124, 58, 237, 0.3);">
 
-  This AI‑powered platform helps researchers, students, editors, and reviewers analyze research papers using Natural Language Processing and Generative AI. Upload PDF/DOCX, receive AI‑generated insights, validate originality, discover related publications, and chat with your documents.
+This AI‑powered platform helps researchers, students, editors, and reviewers analyze research papers using Natural Language Processing and Generative AI. Upload PDF/DOCX, receive AI‑generated insights, validate originality, discover related publications, and chat with your documents.
 
   <table style="width: 100%; border-collapse: separate; border-spacing: 0 5px; background: transparent; margin: 10px 0;">
     <thead>
@@ -266,13 +275,19 @@ I thrive on solving real‑world problems through technology, continuously expan
     </tbody>
   </table>
 
-  **✨ AI Features**
-  - 📄 Intelligent Document Analysis (Title, Author, Abstract, Keywords)
-  - 📊 NLP Analytics (Word Frequency, Word Cloud, Phrase Detection)
-  - 🔍 Research Validation (Similar Paper Search, Google Scholar Integration)
-  - 🤖 AI Chat with Paper (Context‑Aware Q&A)
-  - 👨‍⚖️ Reviewer Assistance (Quality Insights, Missing Section Detection)
-  - 🔐 Multi‑Role System (Author, Reviewer, Editor)
+✨ AI Features
+
+📄 Intelligent Document Analysis (Title, Author, Abstract, Keywords)
+
+📊 NLP Analytics (Word Frequency, Word Cloud, Phrase Detection)
+
+🔍 Research Validation (Similar Paper Search, Google Scholar Integration)
+
+🤖 AI Chat with Paper (Context‑Aware Q&A)
+
+👨‍⚖️ Reviewer Assistance (Quality Insights, Missing Section Detection)
+
+🔐 Multi‑Role System (Author, Reviewer, Editor)
 
   </div>
 </details>
@@ -285,7 +300,7 @@ I thrive on solving real‑world problems through technology, continuously expan
 
   <div style="background: linear-gradient(145deg, #1a1025, #0D0D1A); padding: 20px; border-radius: 20px; border: 1px solid rgba(167, 139, 250, 0.2); box-shadow: 0 10px 30px rgba(124, 58, 237, 0.3);">
 
-  **NeuroMeet AI** is a real‑time communication platform combining HD video conferencing, messaging, AI meeting assistance, attendance management, and collaborative tools for educational institutions, businesses, and remote teams.
+NeuroMeet AI is a real‑time communication platform combining HD video conferencing, messaging, AI meeting assistance, attendance management, and collaborative tools for educational institutions, businesses, and remote teams.
 
   <table style="width: 100%; border-collapse: separate; border-spacing: 0 5px; background: transparent; margin: 10px 0;">
     <thead>
@@ -308,24 +323,28 @@ I thrive on solving real‑world problems through technology, continuously expan
     </tbody>
   </table>
 
-  **✨ Key Features**
-  - 📹 HD Video Meetings with Chat & Screen Sharing
-  - 🤖 AI Meeting Assistant (Live Notes, Summaries, Action Items)
-  - ✅ Live Attendance Tracking & Reports
-  - 👨‍🏫 Teacher & Student Dashboards
-  - 📂 File Sharing & Real‑Time Notifications
-  - 🔐 Secure Meeting Rooms & Role‑Based Access
+✨ Key Features
+
+📹 HD Video Meetings with Chat & Screen Sharing
+
+🤖 AI Meeting Assistant (Live Notes, Summaries, Action Items)
+
+✅ Live Attendance Tracking & Reports
+
+👨‍🏫 Teacher & Student Dashboards
+
+📂 File Sharing & Real‑Time Notifications
+
+🔐 Secure Meeting Rooms & Role‑Based Access
 
   </div>
 </details>
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 💼 Professional Experience
+💼 Professional Experience
 
 <div style="overflow-x: auto; margin: 20px 0;">
   <table style="width: 100%; border-collapse: separate; border-spacing: 0 10px; background: transparent;">
@@ -354,13 +373,11 @@ I thrive on solving real‑world problems through technology, continuously expan
   </table>
 </div>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 🏆 Achievements
+🏆 Achievements
 
 <div style="overflow-x: auto; margin: 20px 0;">
   <table style="width: 100%; border-collapse: separate; border-spacing: 0 10px; background: transparent;">
@@ -395,13 +412,11 @@ I thrive on solving real‑world problems through technology, continuously expan
   </table>
 </div>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 📜 Certifications & Learning
+📜 Certifications & Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-Full%20Stack-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D0D1A" />
@@ -411,13 +426,11 @@ I thrive on solving real‑world problems through technology, continuously expan
   <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0D1A" />
 </p>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 🌐 Developer Profiles
+🌐 Developer Profiles
 
 <p align="center">
   <a href="https://github.com/mianhamzaathar">
@@ -431,13 +444,11 @@ I thrive on solving real‑world problems through technology, continuously expan
   </a>
 </p>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/mianhamzaathar">
@@ -452,13 +463,11 @@ I thrive on solving real‑world problems through technology, continuously expan
   </a>
 </p>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/mianhamzaathar">
@@ -466,13 +475,11 @@ I thrive on solving real‑world problems through technology, continuously expan
   </a>
 </p>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 📈 Contribution Graph
+📈 Contribution Graph
 
 <p align="center">
   <a href="https://github.com/mianhamzaathar">
@@ -480,13 +487,11 @@ I thrive on solving real‑world problems through technology, continuously expan
   </a>
 </p>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 🐍 Contribution Snake (Requested)
+🐍 Contribution Snake (Requested)
 
 <p align="center">
   <picture>
@@ -496,15 +501,12 @@ I thrive on solving real‑world problems through technology, continuously expan
   </picture>
 </p>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 💻 Current Focus
+💻 Current Focus
 
-```yaml
 Name: Muhammad Hamza Athar
 Role: Full Stack Developer
 
@@ -525,15 +527,12 @@ Open To:
   - MERN Stack Opportunities
   - Python/Django Projects
   - Remote & Freelance Work
-```
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="center">
   <a href="https://muhammad-hamza-athar-portfolio.vercel.app/">
@@ -547,9 +546,7 @@ Open To:
   </a>
 </p>
 
----
-
-## 💡 Quote
+💡 Quote
 
 <p align="center">
   <em style="font-size: 1.2em; color: #C4B5FD; text-shadow: 0 0 10px rgba(167, 139, 250, 0.5);">"Building scalable software, solving real‑world problems, and continuously learning new technologies."</em>
@@ -558,4 +555,3 @@ Open To:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=150&section=footer" width="100%" style="border-radius: 20px; box-shadow: 0 -10px 30px rgba(124, 58, 237, 0.3);" />
 </p>
-
