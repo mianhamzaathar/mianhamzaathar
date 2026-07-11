@@ -158,6 +158,7 @@ I thrive on solving real‑world problems through technology, continuously expan
   - 🛍️ Luxury Storefront with Wishlist & Cart
   - 🔍 Smart Product Search & Filtering
   - 🌍 Multi‑language Support
+  - 🔐 Google Authentication
   - 👤 Customer Dashboard
   - ⚙️ Admin Dashboard & Inventory Management
   - 💳 Payment Integration Ready
